@@ -1,5 +1,10 @@
 {
   "name": "the-great-north",
+  "homepage": "https://raphaelnussbaumer.com/TheGreatNorth/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafnuss/theFarWest.git"
+  },
   "private": true,
   "version": "1.0.0",
   "type": "module",
