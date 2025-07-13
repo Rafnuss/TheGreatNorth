@@ -1,0 +1,5644 @@
+[
+  {
+    "location_id": "L12043240",
+    "subnational1": "FR-GES",
+    "subnational2": "Haut-Rhin",
+    "location_name": "Niederhof",
+    "latitude": 47.6241138,
+    "longitude": 7.2411919,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45147357",
+    "subnational1": "FR-GES",
+    "subnational2": "Haut-Rhin",
+    "location_name": "6 Route d'Illfurth, Frœningen, Grand Est, FR (47.689, 7.27)",
+    "latitude": 47.6888744,
+    "longitude": 7.2699967,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45165622",
+    "subnational1": "DE-BW",
+    "subnational2": "Ortenaukreis",
+    "location_name": "A5, Mahlberg, Baden-Württemberg, DE (48.304, 7.79)",
+    "latitude": 48.3037755,
+    "longitude": 7.7902427,
+    "hotspot": false
+  },
+  {
+    "location_id": "L14863838",
+    "subnational1": "DE-BW",
+    "subnational2": "Karlsruhe",
+    "location_name": "Bernhardsweihertal",
+    "latitude": 49.0403806,
+    "longitude": 8.8075539,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-05-16 19:14",
+    "hotspot_numSpeciesAllTime": 97
+  },
+  {
+    "location_id": "L45188389",
+    "subnational1": "DE-BW",
+    "subnational2": "Karlsruhe",
+    "location_name": "Heuweg, Hambrücken, Baden-Württemberg, DE (49.178, 8.541)",
+    "latitude": 49.177973,
+    "longitude": 8.5411832,
+    "hotspot": false
+  },
+  {
+    "location_id": "L4432613",
+    "subnational1": "DE-BW",
+    "subnational2": "Karlsruhe",
+    "location_name": "Saalbachniederung",
+    "latitude": 49.1627365,
+    "longitude": 8.5394669,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-21 11:10",
+    "hotspot_numSpeciesAllTime": 212
+  },
+  {
+    "location_id": "L45210455",
+    "subnational1": "DE-BW",
+    "subnational2": "Karlsruhe",
+    "location_name": "Straße Ohne Straßennamen, Bruchsal, Baden-Württemberg, DE (49.162, 8.552)",
+    "latitude": 49.1623733,
+    "longitude": 8.5516552,
+    "hotspot": false
+  },
+  {
+    "location_id": "L17215504",
+    "subnational1": "DE-BW",
+    "subnational2": "Karlsruhe",
+    "location_name": "Globus Parkplatz, Waghäusel-Wiesental",
+    "latitude": 49.2120465,
+    "longitude": 8.5275364,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-03 15:41",
+    "hotspot_numSpeciesAllTime": 39
+  },
+  {
+    "location_id": "L45211695",
+    "subnational1": "DE-BW",
+    "subnational2": "Karlsruhe",
+    "location_name": "1 Bruchring, Waghäusel, Baden-Württemberg, DE (49.213, 8.523)",
+    "latitude": 49.2129237,
+    "longitude": 8.5231322,
+    "hotspot": false
+  },
+  {
+    "location_id": "L4619182",
+    "subnational1": "DE-HE",
+    "subnational2": "Main-Taunus-Kreis",
+    "location_name": "Weilbacher Kiesgruben (NSG)",
+    "latitude": 50.0493132,
+    "longitude": 8.4555244,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-19 09:37",
+    "hotspot_numSpeciesAllTime": 102
+  },
+  {
+    "location_id": "L45227958",
+    "subnational1": "DE-TH",
+    "subnational2": "Gotha",
+    "location_name": "A4, Günthersleben-Wechmar, Thüringen, DE (50.881, 10.79)",
+    "latitude": 50.8806401,
+    "longitude": 10.7901261,
+    "hotspot": false
+  },
+  {
+    "location_id": "L1418134",
+    "subnational1": "DE-TH",
+    "subnational2": "",
+    "location_name": "Thüringen",
+    "latitude": 50.9010036,
+    "longitude": 11.0312376,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45231292",
+    "subnational1": "DE-TH",
+    "subnational2": "Weimarer Land",
+    "location_name": "A4, Magdala, Thüringen, DE (50.911, 11.417)",
+    "latitude": 50.9107972,
+    "longitude": 11.416766,
+    "hotspot": false
+  },
+  {
+    "location_id": "L12848392",
+    "subnational1": "DE-SN",
+    "subnational2": "Nordsachsen",
+    "location_name": "Werbeliner See (NSG)--Grabschützer See",
+    "latitude": 51.4824532,
+    "longitude": 12.2797959,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-24 09:49",
+    "hotspot_numSpeciesAllTime": 147
+  },
+  {
+    "location_id": "L45266236",
+    "subnational1": "DE-BB",
+    "subnational2": "Potsdam-Mittelmark",
+    "location_name": "E51, Rabenstein/Fläming, Brandenburg, DE (52.043, 12.63)",
+    "latitude": 52.04309,
+    "longitude": 12.6298738,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45278258",
+    "subnational1": "DE-BB",
+    "subnational2": "Potsdam-Mittelmark",
+    "location_name": "A9, Mühlenfließ, Brandenburg, DE (52.177, 12.836)",
+    "latitude": 52.1772295,
+    "longitude": 12.8362895,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45313292",
+    "subnational1": "DE-BB",
+    "subnational2": "Barnim",
+    "location_name": "33 Schönwalder Chaussee, Bernau bei Berlin, Brandenburg, DE (52.679, 13.518)",
+    "latitude": 52.6794381,
+    "longitude": 13.5182155,
+    "hotspot": false
+  },
+  {
+    "location_id": "L1507014",
+    "subnational1": "DE-BB",
+    "subnational2": "Barnim",
+    "location_name": "Schönower Heide",
+    "latitude": 52.6914785,
+    "longitude": 13.5056658,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-02 21:15",
+    "hotspot_numSpeciesAllTime": 98
+  },
+  {
+    "location_id": "L45322760",
+    "subnational1": "DE-BB",
+    "subnational2": "Barnim",
+    "location_name": "50 B273, Bernau bei Berlin, Brandenburg, DE (52.739, 13.486)",
+    "latitude": 52.7392133,
+    "longitude": 13.4862629,
+    "hotspot": false
+  },
+  {
+    "location_id": "L9537028",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "Randowbruch",
+    "latitude": 53.202126,
+    "longitude": 14.0919781,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-13 18:00",
+    "hotspot_numSpeciesAllTime": 159
+  },
+  {
+    "location_id": "L27294444",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "Kiesgrube Passow",
+    "latitude": 53.1520056,
+    "longitude": 14.1142941,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-06 23:41",
+    "hotspot_numSpeciesAllTime": 61
+  },
+  {
+    "location_id": "L45382494",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "Weg zum Felchowsee, Schwedt/Oder, Brandenburg, DE (53.049, 14.115)",
+    "latitude": 53.0494327,
+    "longitude": 14.1150698,
+    "hotspot": false
+  },
+  {
+    "location_id": "L4423126",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "Felchowseegebiet--Lanke",
+    "latitude": 53.0468299,
+    "longitude": 14.1333103,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-06 21:25",
+    "hotspot_numSpeciesAllTime": 149
+  },
+  {
+    "location_id": "L45426682",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "2 Brückenstraße, Schwedt/Oder, Brandenburg, DE (53.053, 14.295)",
+    "latitude": 53.0532718,
+    "longitude": 14.2954141,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45426806",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "30 Hahnenfußweg, Schwedt/Oder, Brandenburg, DE (53.055, 14.302)",
+    "latitude": 53.0551858,
+    "longitude": 14.3024054,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45427294",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "Straße Ohne Straßennamen, Schwedt/Oder, Brandenburg, DE (53.061, 14.315)",
+    "latitude": 53.0607197,
+    "longitude": 14.3149291,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45442356",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "1 Brückenstraße, Schwedt/Oder, Brandenburg, DE (53.051, 14.29)",
+    "latitude": 53.0512718,
+    "longitude": 14.2896492,
+    "hotspot": false
+  },
+  {
+    "location_id": "L18807292",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "Unteres Odertal (Nationalpark)--Heuzugwiesen",
+    "latitude": 53.0391704,
+    "longitude": 14.2731971,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-22 12:09",
+    "hotspot_numSpeciesAllTime": 164
+  },
+  {
+    "location_id": "L45446222",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "5 Am Zützener Kanal, Schwedt/Oder, Brandenburg, DE (53.036, 14.259)",
+    "latitude": 53.0363031,
+    "longitude": 14.2587841,
+    "hotspot": false
+  },
+  {
+    "location_id": "L27021212",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "Unteres Odertal (Nationalpark)--Zützen",
+    "latitude": 53.0245621,
+    "longitude": 14.2459608,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-13 13:22",
+    "hotspot_numSpeciesAllTime": 135
+  },
+  {
+    "location_id": "L45449181",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "Straße Ohne Straßennamen, Schwedt/Oder, Brandenburg, DE (53.014, 14.234)",
+    "latitude": 53.014201,
+    "longitude": 14.2343659,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45456162",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "Straße Ohne Straßennamen, Schwedt/Oder, Brandenburg, DE (53.012, 14.232)",
+    "latitude": 53.0123125,
+    "longitude": 14.231534,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45457089",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "Straße Ohne Straßennamen, Schwedt/Oder, Brandenburg, DE (52.994, 14.191)",
+    "latitude": 52.9935299,
+    "longitude": 14.1911508,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45474371",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "Straße Ohne Straßennamen, Schwedt/Oder, Brandenburg, DE (52.983, 14.192)",
+    "latitude": 52.9834504,
+    "longitude": 14.1916839,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45474332",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "Straße Ohne Straßennamen, Schwedt/Oder, Brandenburg, DE (52.987, 14.202)",
+    "latitude": 52.9873203,
+    "longitude": 14.2023053,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45474266",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "Straße Ohne Straßennamen, Schwedt/Oder, Brandenburg, DE (52.992, 14.219)",
+    "latitude": 52.9915931,
+    "longitude": 14.2191577,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45474193",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "Straße Ohne Straßennamen, Schwedt/Oder, Brandenburg, DE (52.995, 14.229)",
+    "latitude": 52.9945638,
+    "longitude": 14.2293945,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45474180",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "Straße Ohne Straßennamen, Schwedt/Oder, Brandenburg, DE (52.995, 14.232)",
+    "latitude": 52.995471,
+    "longitude": 14.232397,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45474149",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "Straße Ohne Straßennamen, Schwedt/Oder, Brandenburg, DE (53.004, 14.255)",
+    "latitude": 53.0035554,
+    "longitude": 14.2549449,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45474073",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "Zatoń Dolna, Województwo zachodniopomorskie, PL (53.011, 14.268)",
+    "latitude": 53.0109044,
+    "longitude": 14.2679946,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45474056",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "Zatoń Dolna, Województwo zachodniopomorskie, PL (53.012, 14.27)",
+    "latitude": 53.0121867,
+    "longitude": 14.2703824,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45467088",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "Zatoń Dolna, Województwo zachodniopomorskie, PL (53.015, 14.276)",
+    "latitude": 53.0149873,
+    "longitude": 14.2763891,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45469446",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "Straße Ohne Straßennamen, Schwedt/Oder, Brandenburg, DE (53.016, 14.273)",
+    "latitude": 53.0164643,
+    "longitude": 14.272559,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45470756",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "Straße Ohne Straßennamen, Schwedt/Oder, Brandenburg, DE (53.038, 14.279)",
+    "latitude": 53.0375573,
+    "longitude": 14.2794941,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45474022",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "56a Julian-Marchlewski-Ring, Schwedt/Oder, Brandenburg, DE (53.06, 14.275)",
+    "latitude": 53.0595675,
+    "longitude": 14.2749291,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45505368",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "300 Berliner Straße, Schwedt/Oder, Brandenburg, DE (53.071, 14.321)",
+    "latitude": 53.0706188,
+    "longitude": 14.3213692,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45505905",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "Straße Ohne Straßennamen, Schwedt/Oder, Brandenburg, DE (53.081, 14.356)",
+    "latitude": 53.0812881,
+    "longitude": 14.3558877,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45506206",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "Straße Ohne Straßennamen, Schwedt/Oder, Brandenburg, DE (53.107, 14.371)",
+    "latitude": 53.1069142,
+    "longitude": 14.3709125,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45507742",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "Straße Ohne Straßennamen, Schwedt/Oder, Brandenburg, DE (53.105, 14.369)",
+    "latitude": 53.1053127,
+    "longitude": 14.3688913,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45507738",
+    "subnational1": "DE-BB",
+    "subnational2": "Uckermark",
+    "location_name": "6 Zum Teerofen, Schwedt/Oder, Brandenburg, DE (53.109, 14.338)",
+    "latitude": 53.1094978,
+    "longitude": 14.3383637,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45508665",
+    "subnational1": "PL-ZP",
+    "subnational2": "",
+    "location_name": "Kołbaskowo, Województwo zachodniopomorskie, PL (53.34, 14.437)",
+    "latitude": 53.3401241,
+    "longitude": 14.4367074,
+    "hotspot": false
+  },
+  {
+    "location_id": "L17017477",
+    "subnational1": "PL-ZP",
+    "subnational2": "",
+    "location_name": "Zachodniopomorskie",
+    "latitude": 53.587479,
+    "longitude": 15.6189548,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45510487",
+    "subnational1": "PL-ZP",
+    "subnational2": "",
+    "location_name": "E28, Województwo zachodniopomorskie, PL (53.34, 14.497)",
+    "latitude": 53.3398379,
+    "longitude": 14.4974745,
+    "hotspot": false
+  },
+  {
+    "location_id": "L10249010",
+    "subnational1": "PL-ZP",
+    "subnational2": "",
+    "location_name": "Głowaczewo Fishponds",
+    "latitude": 54.1351576,
+    "longitude": 15.4428954,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-04 08:04",
+    "hotspot_numSpeciesAllTime": 203
+  },
+  {
+    "location_id": "L19153502",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "Beka Nature Reserve",
+    "latitude": 54.646525,
+    "longitude": 18.465075,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-29 19:32",
+    "hotspot_numSpeciesAllTime": 248
+  },
+  {
+    "location_id": "L1773518",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "Hel--Cypel",
+    "latitude": 54.5973225,
+    "longitude": 18.8139422,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-03 07:33",
+    "hotspot_numSpeciesAllTime": 265
+  },
+  {
+    "location_id": "L9958637",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "Hel--Military Beach & Oczyszczalnia",
+    "latitude": 54.617075,
+    "longitude": 18.7794287,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-02 18:56",
+    "hotspot_numSpeciesAllTime": 246
+  },
+  {
+    "location_id": "L11554727",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "Jastarnia--Rezerwat Torfowe Kłyle",
+    "latitude": 54.7034049,
+    "longitude": 18.6518805,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-18 09:28",
+    "hotspot_numSpeciesAllTime": 230
+  },
+  {
+    "location_id": "L45606652",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "1A Helska, Kuźnica, Województwo pomorskie, PL (54.737, 18.574)",
+    "latitude": 54.7373772,
+    "longitude": 18.5737915,
+    "hotspot": false
+  },
+  {
+    "location_id": "L10059552",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "Chałupy--Każa Nature Reserve",
+    "latitude": 54.7507133,
+    "longitude": 18.530716,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-19 17:45",
+    "hotspot_numSpeciesAllTime": 185
+  },
+  {
+    "location_id": "L45611634",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "Mostowa, Województwo pomorskie, PL (54.606, 18.413)",
+    "latitude": 54.6064025,
+    "longitude": 18.4129064,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45619852",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "Mostowa, Województwo pomorskie, PL (54.607, 18.413)",
+    "latitude": 54.6070622,
+    "longitude": 18.4130336,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45620623",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "Droga Bez Nazwy, Województwo pomorskie, PL (54.609, 18.417)",
+    "latitude": 54.6091749,
+    "longitude": 18.4165495,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45621008",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "Droga Bez Nazwy, Województwo pomorskie, PL (54.612, 18.421)",
+    "latitude": 54.6120726,
+    "longitude": 18.421341,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45622171",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "Droga Bez Nazwy, Województwo pomorskie, PL (54.615, 18.448)",
+    "latitude": 54.6148504,
+    "longitude": 18.4484049,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45541441",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "Morska, Województwo pomorskie, PL (54.655, 18.456)",
+    "latitude": 54.6549746,
+    "longitude": 18.4557777,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45639342",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "Droga Bez Nazwy, Województwo pomorskie, PL (54.644, 18.46)",
+    "latitude": 54.6441054,
+    "longitude": 18.4596279,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45639563",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "Droga Bez Nazwy, Województwo pomorskie, PL (54.638, 18.457)",
+    "latitude": 54.6382838,
+    "longitude": 18.4566246,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45639746",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "Droga Bez Nazwy, Województwo pomorskie, PL (54.635, 18.458)",
+    "latitude": 54.6352549,
+    "longitude": 18.4578354,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45639895",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "Droga Bez Nazwy, Województwo pomorskie, PL (54.637, 18.465)",
+    "latitude": 54.6367276,
+    "longitude": 18.4650267,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45640080",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "Droga Bez Nazwy, Województwo pomorskie, PL (54.631, 18.471)",
+    "latitude": 54.6311304,
+    "longitude": 18.4710218,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45640335",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "23-17 Koralowa, Województwo pomorskie, PL (54.63, 18.479)",
+    "latitude": 54.6296443,
+    "longitude": 18.4785755,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45640465",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "Droga Bez Nazwy, Województwo pomorskie, PL (54.626, 18.48)",
+    "latitude": 54.625759,
+    "longitude": 18.4799583,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45640662",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "14 Bukowy Las, Rewa, Województwo pomorskie, PL (54.628, 18.492)",
+    "latitude": 54.6279658,
+    "longitude": 18.4916188,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45656188",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "23-17 Koralowa, Województwo pomorskie, PL (54.631, 18.489)",
+    "latitude": 54.6307986,
+    "longitude": 18.4891639,
+    "hotspot": false
+  },
+  {
+    "location_id": "L37890669",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "Rewa--Moście Błota (Popioły)",
+    "latitude": 54.6285746,
+    "longitude": 18.4620989,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-28 21:21",
+    "hotspot_numSpeciesAllTime": 130
+  },
+  {
+    "location_id": "L4294425",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "Górki Wschodnie--Ptasi Raj Nature Reserve",
+    "latitude": 54.3599323,
+    "longitude": 18.7983155,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-01 16:19",
+    "hotspot_numSpeciesAllTime": 224
+  },
+  {
+    "location_id": "L2216568",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "Przekop Wisly ferry",
+    "latitude": 54.3335991,
+    "longitude": 18.9398575,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-29 22:32",
+    "hotspot_numSpeciesAllTime": 167
+  },
+  {
+    "location_id": "L45681297",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "Bursztynowa, Województwo pomorskie, PL (54.341, 18.973)",
+    "latitude": 54.3411058,
+    "longitude": 18.9731085,
+    "hotspot": false
+  },
+  {
+    "location_id": "L1609392",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "Rezerwat Mewia Łacha (Seagull Shoal Reserve)--East Side",
+    "latitude": 54.3534934,
+    "longitude": 18.9608717,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-03 07:57",
+    "hotspot_numSpeciesAllTime": 266
+  },
+  {
+    "location_id": "L49003317",
+    "subnational1": "PL-PM",
+    "subnational2": "",
+    "location_name": "35a Gdańska, Mikoszewo, Województwo pomorskie, PL (54.334, 18.955)",
+    "latitude": 54.3339017,
+    "longitude": 18.9548724,
+    "hotspot": false
+  },
+  {
+    "location_id": "L926926",
+    "subnational1": "PL-WN",
+    "subnational2": "",
+    "location_name": "Warminsko-mazurskie",
+    "latitude": 53.8332232,
+    "longitude": 20.7570954,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45718312",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Pluty, Województwo podlaskie, PL (53.353, 22.454)",
+    "latitude": 53.3532228,
+    "longitude": 22.4536276,
+    "hotspot": false
+  },
+  {
+    "location_id": "L19844020",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Biebrza NP -- Burzyn View Point",
+    "latitude": 53.2752799,
+    "longitude": 22.4572057,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-25 14:44",
+    "hotspot_numSpeciesAllTime": 137
+  },
+  {
+    "location_id": "L23875390",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Narew River--Ruś Bridge",
+    "latitude": 53.201428,
+    "longitude": 22.413995,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-05-23 16:06",
+    "hotspot_numSpeciesAllTime": 109
+  },
+  {
+    "location_id": "L4525191",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Biebrza NP--OTOP Observation Tower",
+    "latitude": 53.2242269,
+    "longitude": 22.5758529,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-25 15:53",
+    "hotspot_numSpeciesAllTime": 184
+  },
+  {
+    "location_id": "L4143460",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Biebrza NP--Długa Luka",
+    "latitude": 53.2856239,
+    "longitude": 22.6054282,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-25 16:18",
+    "hotspot_numSpeciesAllTime": 171
+  },
+  {
+    "location_id": "L45752884",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Droga Bez Nazwy, Województwo podlaskie, PL (53.454, 22.622)",
+    "latitude": 53.4543279,
+    "longitude": 22.6221414,
+    "hotspot": false
+  },
+  {
+    "location_id": "L4533316",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Biebrza NP--Rudzki Canal Observation Tower",
+    "latitude": 53.4862677,
+    "longitude": 22.6266593,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-09 14:32",
+    "hotspot_numSpeciesAllTime": 170
+  },
+  {
+    "location_id": "L45775289",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Droga Krajowa 65, Województwo podlaskie, PL (53.487, 22.632)",
+    "latitude": 53.4868783,
+    "longitude": 22.6322396,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45775503",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Droga Bez Nazwy, Województwo podlaskie, PL (53.489, 22.638)",
+    "latitude": 53.4892236,
+    "longitude": 22.637916,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45776120",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Droga Bez Nazwy, Województwo podlaskie, PL (53.429, 22.499)",
+    "latitude": 53.429153,
+    "longitude": 22.49858,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45776287",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Gmina Radziłów, Podlaskie Voivodeship, PL (53.429, 22.504)",
+    "latitude": 53.429302,
+    "longitude": 22.5040416,
+    "hotspot": false
+  },
+  {
+    "location_id": "L1773547",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Biebrza NP--Biały Grąd Trail & Observation Tower",
+    "latitude": 53.4289086,
+    "longitude": 22.5337127,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-25 11:10",
+    "hotspot_numSpeciesAllTime": 200
+  },
+  {
+    "location_id": "L45779573",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Gmina Radziłów, Podlaskie Voivodeship, PL (53.429, 22.513)",
+    "latitude": 53.4292903,
+    "longitude": 22.5133689,
+    "hotspot": false
+  },
+  {
+    "location_id": "L3351488",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Zygmunt August Lake",
+    "latitude": 53.3444131,
+    "longitude": 22.8973273,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-13 08:52",
+    "hotspot_numSpeciesAllTime": 194
+  },
+  {
+    "location_id": "L3657133",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Knyszyn Zamek Fishponds",
+    "latitude": 53.2947155,
+    "longitude": 22.9053817,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-23 12:46",
+    "hotspot_numSpeciesAllTime": 201
+  },
+  {
+    "location_id": "L7451003",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Tykocin Gravel Pits",
+    "latitude": 53.1920635,
+    "longitude": 22.7583665,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-23 11:26",
+    "hotspot_numSpeciesAllTime": 84
+  },
+  {
+    "location_id": "L45823660",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Droga Bez Nazwy, Województwo podlaskie, PL (53.223, 22.759)",
+    "latitude": 53.2233534,
+    "longitude": 22.7588148,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45839813",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "56 Zagumienna, Białystok, Województwo podlaskie, PL (53.149, 23.145)",
+    "latitude": 53.1492974,
+    "longitude": 23.144642,
+    "hotspot": false
+  },
+  {
+    "location_id": "L2609676",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Dojlidy Fishponds",
+    "latitude": 53.113271,
+    "longitude": 23.2220601,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-18 13:12",
+    "hotspot_numSpeciesAllTime": 213
+  },
+  {
+    "location_id": "L45906647",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Plażowa, Białystok, Województwo podlaskie, PL (53.109, 23.219)",
+    "latitude": 53.1086059,
+    "longitude": 23.2192511,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45896180",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Topolany, Województwo podlaskie, PL (53.017, 23.524)",
+    "latitude": 53.0172863,
+    "longitude": 23.5242622,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45897175",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Droga Bez Nazwy, Województwo podlaskie, PL (53.005, 23.535)",
+    "latitude": 53.0052504,
+    "longitude": 23.5348468,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45897954",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Hieronimowo, Województwo podlaskie, PL (53, 23.557)",
+    "latitude": 52.9995337,
+    "longitude": 23.5566237,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45899416",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Barszczewo, Województwo podlaskie, PL (52.982, 23.692)",
+    "latitude": 52.9819776,
+    "longitude": 23.691613,
+    "hotspot": false
+  },
+  {
+    "location_id": "L14651011",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Siemianówka Reservoir  -Krowie Wyspy",
+    "latitude": 52.932987,
+    "longitude": 23.853671,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-01 17:06",
+    "hotspot_numSpeciesAllTime": 231
+  },
+  {
+    "location_id": "L9930353",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Białowieża Forest--Kosy Most",
+    "latitude": 52.7990425,
+    "longitude": 23.8266541,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-19 05:27",
+    "hotspot_numSpeciesAllTime": 155
+  },
+  {
+    "location_id": "L45966018",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Droga Bez Nazwy, Województwo podlaskie, PL (52.799, 23.812)",
+    "latitude": 52.7988691,
+    "longitude": 23.8119246,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45966789",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Droga Bez Nazwy, Województwo podlaskie, PL (52.799, 23.818)",
+    "latitude": 52.7988812,
+    "longitude": 23.8177925,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45968075",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Droga Bez Nazwy, Województwo podlaskie, PL (52.799, 23.828)",
+    "latitude": 52.7993863,
+    "longitude": 23.8275335,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45968759",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Droga Bez Nazwy, Województwo podlaskie, PL (52.801, 23.827)",
+    "latitude": 52.8014659,
+    "longitude": 23.8271984,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45969444",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Droga Bez Nazwy, Województwo podlaskie, PL (52.799, 23.824)",
+    "latitude": 52.7990368,
+    "longitude": 23.8242252,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45970671",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Gmina Narewka, Podlaskie Voivodeship, PL (52.794, 23.827)",
+    "latitude": 52.7940506,
+    "longitude": 23.8267328,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45971265",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Gmina Narewka, Podlaskie Voivodeship, PL (52.794, 23.824)",
+    "latitude": 52.793814,
+    "longitude": 23.8244185,
+    "hotspot": false
+  },
+  {
+    "location_id": "L45971976",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Gmina Narewka, Podlaskie Voivodeship, PL (52.794, 23.819)",
+    "latitude": 52.7939796,
+    "longitude": 23.8189627,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46005317",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Droga Bez Nazwy, Województwo podlaskie, PL (52.728, 23.789)",
+    "latitude": 52.7277584,
+    "longitude": 23.7891606,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46005522",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Droga Bez Nazwy, Województwo podlaskie, PL (52.731, 23.79)",
+    "latitude": 52.7312156,
+    "longitude": 23.789831,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46009719",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Gmina Białowieża, Podlaskie Voivodeship, PL (52.731, 23.797)",
+    "latitude": 52.7311315,
+    "longitude": 23.7973458,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46009709",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Gmina Białowieża, Podlaskie Voivodeship, PL (52.731, 23.806)",
+    "latitude": 52.7311005,
+    "longitude": 23.8060771,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46009732",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Pogorzelce, Województwo podlaskie, PL (52.727, 23.811)",
+    "latitude": 52.726521,
+    "longitude": 23.8107552,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46009726",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Pogorzelce, Województwo podlaskie, PL (52.724, 23.806)",
+    "latitude": 52.7237327,
+    "longitude": 23.8059711,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46009741",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Droga Bez Nazwy, Województwo podlaskie, PL (52.726, 23.796)",
+    "latitude": 52.7257118,
+    "longitude": 23.7959407,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46009685",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Grudki, Podlaskie Voivodeship, PL (52.714, 23.796)",
+    "latitude": 52.7143254,
+    "longitude": 23.7956321,
+    "hotspot": false
+  },
+  {
+    "location_id": "L5572846",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Białowieża NP--Żebra Żubra",
+    "latitude": 52.7038248,
+    "longitude": 23.8297105,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-08 06:03",
+    "hotspot_numSpeciesAllTime": 133
+  },
+  {
+    "location_id": "L11236758",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Białowieża--Narewka Meadows Viewing Tower",
+    "latitude": 52.709709,
+    "longitude": 23.821777,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-27 08:44",
+    "hotspot_numSpeciesAllTime": 122
+  },
+  {
+    "location_id": "L3674727",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Białowieża--Palace Park & Ponds",
+    "latitude": 52.7039289,
+    "longitude": 23.8462114,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-21 06:34",
+    "hotspot_numSpeciesAllTime": 162
+  },
+  {
+    "location_id": "L25248749",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Białowieża--Narewka bridge",
+    "latitude": 52.6903019,
+    "longitude": 23.8791791,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-05-30 13:14",
+    "hotspot_numSpeciesAllTime": 110
+  },
+  {
+    "location_id": "L3676630",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Białowieża--Wysokie Bagno",
+    "latitude": 52.6863207,
+    "longitude": 23.8908434,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-09 19:22",
+    "hotspot_numSpeciesAllTime": 135
+  },
+  {
+    "location_id": "L46047200",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Droga Bez Nazwy, Województwo podlaskie, PL (52.708, 23.796)",
+    "latitude": 52.7079008,
+    "longitude": 23.7955377,
+    "hotspot": false
+  },
+  {
+    "location_id": "L4140296",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Białowieża NP--Miejsce Mocy area",
+    "latitude": 52.684685,
+    "longitude": 23.7867898,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-15 11:52",
+    "hotspot_numSpeciesAllTime": 121
+  },
+  {
+    "location_id": "L10071439",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Białowieża Forest--Budy bridge",
+    "latitude": 52.727842,
+    "longitude": 23.748552,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-21 14:05",
+    "hotspot_numSpeciesAllTime": 123
+  },
+  {
+    "location_id": "L46070695",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Ploski, Województwo podlaskie, PL (52.89, 23.274)",
+    "latitude": 52.8898896,
+    "longitude": 23.2741791,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46072509",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Ploski, Województwo podlaskie, PL (52.9, 23.284)",
+    "latitude": 52.8997363,
+    "longitude": 23.2843749,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46074487",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Bielsk Podlaski, Województwo podlaskie, PL (52.904, 23.282)",
+    "latitude": 52.9044929,
+    "longitude": 23.281885,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46075434",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Ploski, Województwo podlaskie, PL (52.901, 23.283)",
+    "latitude": 52.9013342,
+    "longitude": 23.2826629,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46116170",
+    "subnational1": "PL-PD",
+    "subnational2": "",
+    "location_name": "Obozowa, Knyszyn, Województwo podlaskie, PL (53.323, 22.899)",
+    "latitude": 53.323119,
+    "longitude": 22.8985682,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46192696",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "16 Tatamiškių gatvė, Sausgalviai, Klaipėdos apskritis, LT (55.269, 21.464)",
+    "latitude": 55.2685668,
+    "longitude": 21.463918,
+    "hotspot": false
+  },
+  {
+    "location_id": "L2943326",
+    "subnational1": "LT-MR",
+    "subnational2": "",
+    "location_name": "Marijampoles Apskritis",
+    "latitude": 54.7052008,
+    "longitude": 23.1729928,
+    "hotspot": false
+  },
+  {
+    "location_id": "L9758627",
+    "subnational1": "LT-MR",
+    "subnational2": "",
+    "location_name": "Nemunas ties Jurbarku (Nemunas river near Jurbarkas)",
+    "latitude": 55.0763601,
+    "longitude": 22.7780284,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-30 13:43",
+    "hotspot_numSpeciesAllTime": 69
+  },
+  {
+    "location_id": "L10641075",
+    "subnational1": "LT-TA",
+    "subnational2": "",
+    "location_name": "Taurages Apskritis",
+    "latitude": 55.3212987,
+    "longitude": 22.5136534,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46144060",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "13 Užlieknių gatvė, Klugonų kaimas, Klaipėdos apskritis, LT (55.285, 21.552)",
+    "latitude": 55.2852876,
+    "longitude": 21.5515313,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46145247",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "4215, Klaipėdos apskritis, LT (55.282, 21.538)",
+    "latitude": 55.2823286,
+    "longitude": 21.5382597,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46146295",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "82 Šilutės gatvė, Užliekniai, Klaipėdos apskritis, LT (55.278, 21.518)",
+    "latitude": 55.2779783,
+    "longitude": 21.5180444,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46148442",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "14 Šyšos g., Rupkalviai, Klaipėdos apskritis, LT (55.323, 21.43)",
+    "latitude": 55.3229102,
+    "longitude": 21.4304115,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46149952",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "20 Šyšos g., Šyša, Klaipėdos apskritis, LT (55.328, 21.432)",
+    "latitude": 55.3281905,
+    "longitude": 21.4315034,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46151686",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "Šyšos g., Šyša, Klaipėdos apskritis, LT (55.328, 21.418)",
+    "latitude": 55.3280701,
+    "longitude": 21.4184752,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46153849",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "Kelias Be Pavadinimo, Klaipėdos apskritis, LT (55.319, 21.413)",
+    "latitude": 55.3186604,
+    "longitude": 21.4128881,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46154695",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "Kelias Be Pavadinimo, Klaipėdos apskritis, LT (55.314, 21.399)",
+    "latitude": 55.3136197,
+    "longitude": 21.3992378,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46157917",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "Kelias Be Pavadinimo, Klaipėdos apskritis, LT (55.277, 21.441)",
+    "latitude": 55.2767266,
+    "longitude": 21.441475,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46161340",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "Kelias Be Pavadinimo, Klaipėdos apskritis, LT (55.276, 21.451)",
+    "latitude": 55.2755655,
+    "longitude": 21.451476,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46161764",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "4237, Sausgalviai, Klaipėdos apskritis, LT (55.275, 21.462)",
+    "latitude": 55.2752218,
+    "longitude": 21.4619442,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46162915",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "4237, Klaipėdos apskritis, LT (55.278, 21.461)",
+    "latitude": 55.2775706,
+    "longitude": 21.4612601,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46163401",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "4237, Sausgalviai, Klaipėdos apskritis, LT (55.274, 21.465)",
+    "latitude": 55.2741653,
+    "longitude": 21.4649821,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46164025",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "10 Tatamiškių gatvė, Sausgalviai, Klaipėdos apskritis, LT (55.266, 21.469)",
+    "latitude": 55.2662054,
+    "longitude": 21.4688087,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46164433",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "Kelias Be Pavadinimo, Sausgalviai, Klaipėdos apskritis, LT (55.26, 21.474)",
+    "latitude": 55.2601597,
+    "longitude": 21.4741385,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46165076",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "Kelias Be Pavadinimo, Sausgalviai, Klaipėdos apskritis, LT (55.254, 21.479)",
+    "latitude": 55.2543115,
+    "longitude": 21.4792274,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46167745",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "Kelias Be Pavadinimo, Klaipėdos apskritis, LT (55.275, 21.455)",
+    "latitude": 55.275057,
+    "longitude": 21.454634,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46168906",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "4213, Klaipėdos apskritis, LT (55.29, 21.404)",
+    "latitude": 55.2895827,
+    "longitude": 21.4040957,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46169924",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "Uostadvario gatvė, Uostadvaris, Klaipėdos apskritis, LT (55.336, 21.366)",
+    "latitude": 55.3364699,
+    "longitude": 21.3658219,
+    "hotspot": false
+  },
+  {
+    "location_id": "L1467139",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "Uostadvario ornitologinis draustinis (Uostadvaris Ornithological Preserve)",
+    "latitude": 55.3375221,
+    "longitude": 21.3474911,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-07 07:41",
+    "hotspot_numSpeciesAllTime": 212
+  },
+  {
+    "location_id": "L4679783",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "Uostadvario Švyturys (Uostadvaris Lighthouse)",
+    "latitude": 55.3442688,
+    "longitude": 21.2905584,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-05-28 07:10",
+    "hotspot_numSpeciesAllTime": 133
+  },
+  {
+    "location_id": "L46188448",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "Kelias Be Pavadinimo, Klaipėdos apskritis, LT (55.333, 21.279)",
+    "latitude": 55.3334991,
+    "longitude": 21.2792616,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46188879",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "Kelias Be Pavadinimo, Klaipėdos apskritis, LT (55.326, 21.28)",
+    "latitude": 55.3262212,
+    "longitude": 21.2802237,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46190432",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "60A Pakalnės gatvė, Rusnė, Klaipėdos apskritis, LT (55.315, 21.319)",
+    "latitude": 55.3149509,
+    "longitude": 21.3189799,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46192363",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "68 Pakalnės gatvė, Klaipėdos apskritis, LT (55.316, 21.31)",
+    "latitude": 55.3162818,
+    "longitude": 21.3096963,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46192607",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "15 Taikos gatvė, Rusnė, Klaipėdos apskritis, LT (55.3, 21.373)",
+    "latitude": 55.2998769,
+    "longitude": 21.3731728,
+    "hotspot": false
+  },
+  {
+    "location_id": "L19429776",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "Žalgirio miškas (Žalgiris forest)",
+    "latitude": 55.2946364,
+    "longitude": 21.4587566,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-04 07:18",
+    "hotspot_numSpeciesAllTime": 133
+  },
+  {
+    "location_id": "L8538319",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "Ventė Cape Ornithological Station (Ventės rago ornitologinė stotis)",
+    "latitude": 55.341129,
+    "longitude": 21.190061,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-28 16:35",
+    "hotspot_numSpeciesAllTime": 232
+  },
+  {
+    "location_id": "L46205204",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "4 Tvenkinių gatvė, Povilai, Klaipėdos apskritis, LT (55.405, 21.266)",
+    "latitude": 55.4047149,
+    "longitude": 21.2655736,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46214291",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "Klaipėda, Klaipėdos apskritis, LT (55.687, 21.134)",
+    "latitude": 55.6870021,
+    "longitude": 21.1342825,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46216042",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "Nidos-Smiltynės plentas, Klaipėdos apskritis, LT (55.587, 21.129)",
+    "latitude": 55.5867719,
+    "longitude": 21.1288439,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46223895",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "Gintaro Įlankos gatvė, Juodkrantė, Klaipėdos apskritis, LT (55.555, 21.125)",
+    "latitude": 55.5545403,
+    "longitude": 21.1253621,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46224243",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "Nidos-Smiltynės plentas, Juodkrantė, Klaipėdos apskritis, LT (55.521, 21.113)",
+    "latitude": 55.5206929,
+    "longitude": 21.1130783,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46224778",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "Žaliasis kel., Klaipėdos apskritis, LT (55.515, 21.101)",
+    "latitude": 55.5148116,
+    "longitude": 21.1008959,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46227298",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "Žaliasis kel., Klaipėdos apskritis, LT (55.522, 21.096)",
+    "latitude": 55.5217044,
+    "longitude": 21.0956317,
+    "hotspot": false
+  },
+  {
+    "location_id": "L7901352",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "Juodkrantė Ancient Forest (Juodkrantės sengirė)",
+    "latitude": 55.5416619,
+    "longitude": 21.1108133,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-12 10:15",
+    "hotspot_numSpeciesAllTime": 129
+  },
+  {
+    "location_id": "L46256712",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "1D L. Rėzos gatvė, Klaipėdos apskritis, LT (55.542, 21.122)",
+    "latitude": 55.5420144,
+    "longitude": 21.1220758,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46260250",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "33 Smiltynės gatvė, Klaipėda, Klaipėdos apskritis, LT (55.677, 21.103)",
+    "latitude": 55.6765556,
+    "longitude": 21.1031012,
+    "hotspot": false
+  },
+  {
+    "location_id": "L16211023",
+    "subnational1": "LT-KL",
+    "subnational2": "",
+    "location_name": "Šventoji old pier (Šventosios senasis molas)",
+    "latitude": 56.0292259,
+    "longitude": 21.0690261,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-01 19:10",
+    "hotspot_numSpeciesAllTime": 169
+  },
+  {
+    "location_id": "L2766500",
+    "subnational1": "LV-LPX",
+    "subnational2": "",
+    "location_name": "Liepaja",
+    "latitude": 56.5405582,
+    "longitude": 21.0022545,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-28 14:18",
+    "hotspot_numSpeciesAllTime": 107
+  },
+  {
+    "location_id": "L46275973",
+    "subnational1": "LV-LPX",
+    "subnational2": "",
+    "location_name": "13 Pulvera iela, Liepāja, LV (56.541, 21.019)",
+    "latitude": 56.5412318,
+    "longitude": 21.0191645,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46280901",
+    "subnational1": "LV-106",
+    "subnational2": "",
+    "location_name": "Ventspils novads, LV (57.165, 21.459)",
+    "latitude": 57.165121,
+    "longitude": 21.4585752,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46281667",
+    "subnational1": "LV-106",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Ventspils novads, LV (57.165, 21.474)",
+    "latitude": 57.1649091,
+    "longitude": 21.4739636,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46283742",
+    "subnational1": "LV-106",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Ventspils novads, LV (57.165, 21.495)",
+    "latitude": 57.1647608,
+    "longitude": 21.494886,
+    "hotspot": false
+  },
+  {
+    "location_id": "L2764705",
+    "subnational1": "LV-106",
+    "subnational2": "",
+    "location_name": "Uzavas lejtece",
+    "latitude": 57.1554234,
+    "longitude": 21.5023041,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-27 18:26",
+    "hotspot_numSpeciesAllTime": 135
+  },
+  {
+    "location_id": "L46287097",
+    "subnational1": "LV-106",
+    "subnational2": "",
+    "location_name": "Strautmaļi, Ventspils novads, LV (57.185, 21.619)",
+    "latitude": 57.1847757,
+    "longitude": 21.6188905,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46292955",
+    "subnational1": "LV-106",
+    "subnational2": "",
+    "location_name": "40 Medņu iela, Ventspils, LV (57.392, 21.533)",
+    "latitude": 57.3922115,
+    "longitude": 21.5330065,
+    "hotspot": false
+  },
+  {
+    "location_id": "L2764703",
+    "subnational1": "LV-106",
+    "subnational2": "",
+    "location_name": "Ovisrags",
+    "latitude": 57.5776323,
+    "longitude": 21.730442,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-05-29 19:37",
+    "hotspot_numSpeciesAllTime": 143
+  },
+  {
+    "location_id": "L46302649",
+    "subnational1": "LV-106",
+    "subnational2": "",
+    "location_name": "P124, Ventspils novads, LV (57.561, 21.802)",
+    "latitude": 57.561242,
+    "longitude": 21.8016963,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46304154",
+    "subnational1": "LV-106",
+    "subnational2": "",
+    "location_name": "P124, Ventspils novads, LV (57.625, 22.154)",
+    "latitude": 57.6252155,
+    "longitude": 22.1538188,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46305809",
+    "subnational1": "LV-097",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Talsu novads, LV (57.663, 22.345)",
+    "latitude": 57.662665,
+    "longitude": 22.3449617,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46306429",
+    "subnational1": "LV-097",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Talsu novads, LV (57.659, 22.349)",
+    "latitude": 57.6594866,
+    "longitude": 22.3494161,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46307039",
+    "subnational1": "LV-097",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Talsu novads, LV (57.653, 22.355)",
+    "latitude": 57.6530468,
+    "longitude": 22.3551557,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46307493",
+    "subnational1": "LV-097",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Talsu novads, LV (57.646, 22.366)",
+    "latitude": 57.645537,
+    "longitude": 22.3662637,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46307594",
+    "subnational1": "LV-097",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Talsu novads, LV (57.643, 22.37)",
+    "latitude": 57.6434244,
+    "longitude": 22.3700465,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46308371",
+    "subnational1": "LV-097",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Talsu novads, LV (57.638, 22.379)",
+    "latitude": 57.6383328,
+    "longitude": 22.3787651,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46308991",
+    "subnational1": "LV-097",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Talsu novads, LV (57.633, 22.387)",
+    "latitude": 57.6331725,
+    "longitude": 22.3868776,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46309501",
+    "subnational1": "LV-097",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Talsu novads, LV (57.641, 22.374)",
+    "latitude": 57.6410989,
+    "longitude": 22.373597,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46310691",
+    "subnational1": "LV-097",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Talsu novads, LV (57.65, 22.358)",
+    "latitude": 57.6503593,
+    "longitude": 22.3584704,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46311303",
+    "subnational1": "LV-097",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Talsu novads, LV (57.658, 22.351)",
+    "latitude": 57.6583804,
+    "longitude": 22.3508565,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46334611",
+    "subnational1": "LV-097",
+    "subnational2": "",
+    "location_name": "P124, Talsu novads, LV (57.757, 22.591)",
+    "latitude": 57.7567638,
+    "longitude": 22.5912415,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46334400",
+    "subnational1": "LV-097",
+    "subnational2": "",
+    "location_name": "Talsu novads, LV (57.759, 22.605)",
+    "latitude": 57.7588992,
+    "longitude": 22.6047629,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46336450",
+    "subnational1": "LV-097",
+    "subnational2": "",
+    "location_name": "P124, Talsu novads, LV (57.757, 22.592)",
+    "latitude": 57.75731,
+    "longitude": 22.5919263,
+    "hotspot": false
+  },
+  {
+    "location_id": "L2573870",
+    "subnational1": "LV-027",
+    "subnational2": "",
+    "location_name": "Kolka",
+    "latitude": 57.7576705,
+    "longitude": 22.5999069,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-01 05:43",
+    "hotspot_numSpeciesAllTime": 240
+  },
+  {
+    "location_id": "L46344833",
+    "subnational1": "LV-097",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Talsu novads, LV (57.656, 22.507)",
+    "latitude": 57.6557752,
+    "longitude": 22.506562,
+    "hotspot": false
+  },
+  {
+    "location_id": "L3958067",
+    "subnational1": "LV-063",
+    "subnational2": "",
+    "location_name": "Mērsrags -- Putnu tornis",
+    "latitude": 57.344443,
+    "longitude": 23.1249493,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-13 11:03",
+    "hotspot_numSpeciesAllTime": 146
+  },
+  {
+    "location_id": "L46350537",
+    "subnational1": "LV-097",
+    "subnational2": "",
+    "location_name": "130 Lielā iela, Mērsrags, Talsu novads, LV (57.344, 23.123)",
+    "latitude": 57.3443391,
+    "longitude": 23.1226918,
+    "hotspot": false
+  },
+  {
+    "location_id": "L42032611",
+    "subnational1": "LV-097",
+    "subnational2": "",
+    "location_name": "Mērsrags Devil's Stone",
+    "latitude": 57.3658929,
+    "longitude": 23.1218043,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46366361",
+    "subnational1": "LV-099",
+    "subnational2": "",
+    "location_name": "1 Jaunā iela, Lapmežciems, Tukuma novads, LV (57.01, 23.509)",
+    "latitude": 57.0099716,
+    "longitude": 23.5088835,
+    "hotspot": false
+  },
+  {
+    "location_id": "L12085756",
+    "subnational1": "LV-029",
+    "subnational2": "",
+    "location_name": "Kaņiera ezera niedru taka (Kaņiera Lake Reed Trail)",
+    "latitude": 57.0009677,
+    "longitude": 23.4739745,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-14 08:12",
+    "hotspot_numSpeciesAllTime": 120
+  },
+  {
+    "location_id": "L3958060",
+    "subnational1": "LV-029",
+    "subnational2": "",
+    "location_name": "Lake Kanieris -- Pilskalna tornis",
+    "latitude": 56.9914217,
+    "longitude": 23.4347552,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-12 10:16",
+    "hotspot_numSpeciesAllTime": 136
+  },
+  {
+    "location_id": "L3959626",
+    "subnational1": "LV-JUR",
+    "subnational2": "",
+    "location_name": "Slokas ezers -- Putnu tornis",
+    "latitude": 56.9576357,
+    "longitude": 23.5471626,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-10 10:06",
+    "hotspot_numSpeciesAllTime": 117
+  },
+  {
+    "location_id": "L46418731",
+    "subnational1": "LV-RIX",
+    "subnational2": "",
+    "location_name": "Dūņu ceļš, Jūrmala, LV (56.957, 23.547)",
+    "latitude": 56.9574562,
+    "longitude": 23.5465406,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46419356",
+    "subnational1": "LV-RIX",
+    "subnational2": "",
+    "location_name": "Jūrmala, LV (56.952, 23.513)",
+    "latitude": 56.9519779,
+    "longitude": 23.5129116,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46419994",
+    "subnational1": "LV-026",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Dobeles novads, LV (56.783, 23.481)",
+    "latitude": 56.7829078,
+    "longitude": 23.4812708,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46420828",
+    "subnational1": "LV-026",
+    "subnational2": "",
+    "location_name": "Tumšsili, Dobeles novads, LV (56.774, 23.472)",
+    "latitude": 56.7744648,
+    "longitude": 23.4721724,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46421295",
+    "subnational1": "LV-026",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Dobeles novads, LV (56.769, 23.462)",
+    "latitude": 56.7690694,
+    "longitude": 23.4616058,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46422003",
+    "subnational1": "LV-026",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Dobeles novads, LV (56.74, 23.362)",
+    "latitude": 56.7395543,
+    "longitude": 23.3615832,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46422383",
+    "subnational1": "LV-026",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Dobeles novads, LV (56.735, 23.341)",
+    "latitude": 56.7345153,
+    "longitude": 23.3406201,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46423259",
+    "subnational1": "LV-026",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Dobeles novads, LV (56.732, 23.352)",
+    "latitude": 56.7318388,
+    "longitude": 23.351601,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46424610",
+    "subnational1": "LV-026",
+    "subnational2": "",
+    "location_name": "Sīpele, Dobeles novads, LV (56.705, 23.355)",
+    "latitude": 56.7046492,
+    "longitude": 23.3548299,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46427382",
+    "subnational1": "LV-099",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Tukuma novads, LV (56.828, 23.42)",
+    "latitude": 56.828362,
+    "longitude": 23.4202475,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46429708",
+    "subnational1": "LV-099",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Tukuma novads, LV (56.865, 23.39)",
+    "latitude": 56.8648605,
+    "longitude": 23.3899723,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46431518",
+    "subnational1": "LV-099",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Tukuma novads, LV (56.869, 23.377)",
+    "latitude": 56.8686307,
+    "longitude": 23.3767174,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46431764",
+    "subnational1": "LV-099",
+    "subnational2": "",
+    "location_name": "Tukuma novads, LV (56.868, 23.37)",
+    "latitude": 56.8681164,
+    "longitude": 23.3697403,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46435447",
+    "subnational1": "LV-062",
+    "subnational2": "",
+    "location_name": "Straupes Ģeri, Straupciems, Mārupes novads, LV (56.911, 23.652)",
+    "latitude": 56.9113525,
+    "longitude": 23.6524258,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46455862",
+    "subnational1": "LV-RIX",
+    "subnational2": "",
+    "location_name": "1A Spilves iela, Jūrmala, LV (56.977, 23.88)",
+    "latitude": 56.9770881,
+    "longitude": 23.8796844,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46489750",
+    "subnational1": "LV-080",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Ropažu novads, LV (57.02, 24.428)",
+    "latitude": 57.0195077,
+    "longitude": 24.4276035,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46497247",
+    "subnational1": "LV-011",
+    "subnational2": "",
+    "location_name": "Eimuri, Ādažu novads, LV (57.087, 24.275)",
+    "latitude": 57.086835,
+    "longitude": 24.2752177,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46525914",
+    "subnational1": "LV-067",
+    "subnational2": "",
+    "location_name": "Suntaži, Ogres novads, LV (56.909, 24.943)",
+    "latitude": 56.9085484,
+    "longitude": 24.9430974,
+    "hotspot": false
+  },
+  {
+    "location_id": "L3958973",
+    "subnational1": "LV-059",
+    "subnational2": "",
+    "location_name": "Lake Lubans -- Dimantu tornis",
+    "latitude": 56.7150614,
+    "longitude": 26.7678371,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-05 10:00",
+    "hotspot_numSpeciesAllTime": 98
+  },
+  {
+    "location_id": "L46529452",
+    "subnational1": "LV-077",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Rēzeknes novads, LV (56.713, 26.786)",
+    "latitude": 56.7125617,
+    "longitude": 26.785859,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46530267",
+    "subnational1": "LV-077",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Rēzeknes novads, LV (56.722, 26.841)",
+    "latitude": 56.7222732,
+    "longitude": 26.8409991,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46530825",
+    "subnational1": "LV-077",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Rēzeknes novads, LV (56.724, 26.869)",
+    "latitude": 56.7242562,
+    "longitude": 26.8694441,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46532829",
+    "subnational1": "LV-077",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Rēzeknes novads, LV (56.708, 26.879)",
+    "latitude": 56.7082345,
+    "longitude": 26.8793807,
+    "hotspot": false
+  },
+  {
+    "location_id": "L3577766",
+    "subnational1": "LV-077",
+    "subnational2": "",
+    "location_name": "Zvejsala ponds",
+    "latitude": 56.6942326,
+    "longitude": 26.8943167,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-01 11:49",
+    "hotspot_numSpeciesAllTime": 137
+  },
+  {
+    "location_id": "L46555618",
+    "subnational1": "LV-077",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Rēzeknes novads, LV (56.683, 26.906)",
+    "latitude": 56.683378,
+    "longitude": 26.9057915,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46558365",
+    "subnational1": "LV-077",
+    "subnational2": "",
+    "location_name": "Silmaču hidroelektrostacija, Nagļi, Rēzeknes novads, LV (56.681, 26.938)",
+    "latitude": 56.6813044,
+    "longitude": 26.9383626,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46563692",
+    "subnational1": "LV-077",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Rēzeknes novads, LV (56.763, 26.968)",
+    "latitude": 56.7634694,
+    "longitude": 26.9684523,
+    "hotspot": false
+  },
+  {
+    "location_id": "L4446482",
+    "subnational1": "LV-059",
+    "subnational2": "",
+    "location_name": "Lubāna mitrāja info centrs",
+    "latitude": 56.8165006,
+    "longitude": 26.9067776,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-04 08:15",
+    "hotspot_numSpeciesAllTime": 84
+  },
+  {
+    "location_id": "L46593943",
+    "subnational1": "LV-077",
+    "subnational2": "",
+    "location_name": "P36, Rēzeknes novads, LV (56.802, 27.097)",
+    "latitude": 56.8023877,
+    "longitude": 27.0972184,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46600782",
+    "subnational1": "LV-015",
+    "subnational2": "",
+    "location_name": "Bonifacova, Balvu novads, LV (56.82, 27.045)",
+    "latitude": 56.8204437,
+    "longitude": 27.0447125,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46630465",
+    "subnational1": "LV-015",
+    "subnational2": "",
+    "location_name": "Balvu novads, LV (56.895, 27.069)",
+    "latitude": 56.8945276,
+    "longitude": 27.0689499,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46631911",
+    "subnational1": "LV-033",
+    "subnational2": "",
+    "location_name": "P36, Gulbenes novads, LV (57.063, 26.898)",
+    "latitude": 57.0632784,
+    "longitude": 26.8976568,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46639226",
+    "subnational1": "LV-094",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Smiltenes novads, LV (57.296, 26.022)",
+    "latitude": 57.2958664,
+    "longitude": 26.0222482,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46639283",
+    "subnational1": "LV-094",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Smiltenes novads, LV (57.292, 26.003)",
+    "latitude": 57.2915012,
+    "longitude": 26.0032105,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46639294",
+    "subnational1": "LV-094",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Smiltenes novads, LV (57.289, 25.982)",
+    "latitude": 57.2893511,
+    "longitude": 25.9823794,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46633402",
+    "subnational1": "LV-094",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Smiltenes novads, LV (57.287, 25.962)",
+    "latitude": 57.2872717,
+    "longitude": 25.9617512,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46639218",
+    "subnational1": "LV-094",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Smiltenes novads, LV (57.304, 25.953)",
+    "latitude": 57.3038627,
+    "longitude": 25.9533003,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46639233",
+    "subnational1": "LV-094",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Smiltenes novads, LV (57.305, 25.966)",
+    "latitude": 57.304708,
+    "longitude": 25.966406,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46635612",
+    "subnational1": "LV-094",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Smiltenes novads, LV (57.306, 25.979)",
+    "latitude": 57.3056946,
+    "longitude": 25.9790848,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46639278",
+    "subnational1": "LV-094",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Smiltenes novads, LV (57.306, 25.989)",
+    "latitude": 57.3063192,
+    "longitude": 25.989084,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46639251",
+    "subnational1": "LV-094",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Smiltenes novads, LV (57.307, 25.998)",
+    "latitude": 57.3067539,
+    "longitude": 25.9976801,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46639212",
+    "subnational1": "LV-094",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Smiltenes novads, LV (57.306, 25.992)",
+    "latitude": 57.3064858,
+    "longitude": 25.9916124,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46635623",
+    "subnational1": "LV-094",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Smiltenes novads, LV (57.324, 25.948)",
+    "latitude": 57.3235353,
+    "longitude": 25.9484973,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46637141",
+    "subnational1": "LV-094",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Smiltenes novads, LV (57.328, 25.95)",
+    "latitude": 57.3283872,
+    "longitude": 25.9501901,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46637207",
+    "subnational1": "LV-094",
+    "subnational2": "",
+    "location_name": "Smiltenes novads, LV (57.291, 25.888)",
+    "latitude": 57.2905967,
+    "longitude": 25.887862,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46654325",
+    "subnational1": "LV-",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Valmieras novads, LV (57.564, 25.715)",
+    "latitude": 57.563756,
+    "longitude": 25.7151227,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46656688",
+    "subnational1": "LV-",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Valmieras novads, LV (57.646, 25.646)",
+    "latitude": 57.6463685,
+    "longitude": 25.645917,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46668714",
+    "subnational1": "LV-",
+    "subnational2": "",
+    "location_name": "Ceļš Bez Nosaukuma, Valmieras novads, LV (57.657, 25.941)",
+    "latitude": 57.6565785,
+    "longitude": 25.941358,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46668916",
+    "subnational1": "LV-101",
+    "subnational2": "",
+    "location_name": "100 Rīgas iela, Valka, Valkas novads, LV (57.758, 25.986)",
+    "latitude": 57.7583383,
+    "longitude": 25.9864129,
+    "hotspot": false
+  },
+  {
+    "location_id": "L27823354",
+    "subnational1": "EE-82",
+    "subnational2": "",
+    "location_name": "Valgamaa",
+    "latitude": 57.9249303,
+    "longitude": 26.1796968,
+    "hotspot": false
+  },
+  {
+    "location_id": "L42085163",
+    "subnational1": "EE-78",
+    "subnational2": "",
+    "location_name": "Aardla polder--S osa, järvepoolne",
+    "latitude": 58.3035978,
+    "longitude": 26.7374679,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-11 07:30",
+    "hotspot_numSpeciesAllTime": 89
+  },
+  {
+    "location_id": "L46681284",
+    "subnational1": "EE-78",
+    "subnational2": "",
+    "location_name": "Aardla, Tartu maakond, EE (58.318, 26.771)",
+    "latitude": 58.3183772,
+    "longitude": 26.7709773,
+    "hotspot": false
+  },
+  {
+    "location_id": "L42085367",
+    "subnational1": "EE-78",
+    "subnational2": "",
+    "location_name": "Aardla polder--E osa",
+    "latitude": 58.3202422,
+    "longitude": 26.7670084,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-04 11:24",
+    "hotspot_numSpeciesAllTime": 52
+  },
+  {
+    "location_id": "L46710226",
+    "subnational1": "EE-78",
+    "subnational2": "",
+    "location_name": "Tõrvandi-Roiu-Uniküla, Tartu maakond, EE (58.328, 26.755)",
+    "latitude": 58.3279263,
+    "longitude": 26.7553306,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46710211",
+    "subnational1": "EE-78",
+    "subnational2": "",
+    "location_name": "Soinaste, Tartu maakond, EE (58.328, 26.746)",
+    "latitude": 58.328434,
+    "longitude": 26.7462493,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46710421",
+    "subnational1": "EE-78",
+    "subnational2": "",
+    "location_name": "Soinaste, Tartu maakond, EE (58.329, 26.74)",
+    "latitude": 58.3291693,
+    "longitude": 26.7402298,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46710792",
+    "subnational1": "EE-78",
+    "subnational2": "",
+    "location_name": "11a Tammetõru tänav, Tartu, Tartu maakond, EE (58.35, 26.694)",
+    "latitude": 58.3497168,
+    "longitude": 26.6943244,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46710935",
+    "subnational1": "EE-78",
+    "subnational2": "",
+    "location_name": "104a Raudtee tänav, Tartu, Tartu maakond, EE (58.345, 26.689)",
+    "latitude": 58.3452244,
+    "longitude": 26.6890643,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46711225",
+    "subnational1": "EE-78",
+    "subnational2": "",
+    "location_name": "Laseri tänav, Tartu, Tartu maakond, EE (58.348, 26.683)",
+    "latitude": 58.3475586,
+    "longitude": 26.6831443,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46711794",
+    "subnational1": "EE-78",
+    "subnational2": "",
+    "location_name": "Kandiküla, Tartu maakond, EE (58.381, 26.671)",
+    "latitude": 58.3810676,
+    "longitude": 26.6713453,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46712506",
+    "subnational1": "EE-78",
+    "subnational2": "",
+    "location_name": "Ilmatsalu, Tartu maakond, EE (58.383, 26.563)",
+    "latitude": 58.3826074,
+    "longitude": 26.5630839,
+    "hotspot": false
+  },
+  {
+    "location_id": "L3658728",
+    "subnational1": "EE-78",
+    "subnational2": "",
+    "location_name": "Ilmatsalu kalatiigid",
+    "latitude": 58.3956422,
+    "longitude": 26.5415389,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-23 15:37",
+    "hotspot_numSpeciesAllTime": 196
+  },
+  {
+    "location_id": "L42081046",
+    "subnational1": "EE-78",
+    "subnational2": "",
+    "location_name": "Ilmatsalu-Kärevere matkarada SW",
+    "latitude": 58.4020268,
+    "longitude": 26.5309136,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-03 11:23",
+    "hotspot_numSpeciesAllTime": 62
+  },
+  {
+    "location_id": "L42081129",
+    "subnational1": "EE-78",
+    "subnational2": "",
+    "location_name": "Ilmatsalu-Kärevere matkarada NW",
+    "latitude": 58.4119135,
+    "longitude": 26.5280053,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-03 12:04",
+    "hotspot_numSpeciesAllTime": 19
+  },
+  {
+    "location_id": "L46731277",
+    "subnational1": "EE-78",
+    "subnational2": "",
+    "location_name": "Valmaotsa, Tartu maakond, EE (58.434, 26.289)",
+    "latitude": 58.4341675,
+    "longitude": 26.2889352,
+    "hotspot": false
+  },
+  {
+    "location_id": "L3658772",
+    "subnational1": "EE-78",
+    "subnational2": "",
+    "location_name": "Selli-Sillaotsa matkarada",
+    "latitude": 58.4352447,
+    "longitude": 26.2886524,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-11 10:19",
+    "hotspot_numSpeciesAllTime": 130
+  },
+  {
+    "location_id": "L46743604",
+    "subnational1": "EE-78",
+    "subnational2": "",
+    "location_name": "Valmaotsa, Tartu maakond, EE (58.458, 26.35)",
+    "latitude": 58.4582926,
+    "longitude": 26.3503842,
+    "hotspot": false
+  },
+  {
+    "location_id": "L5200098",
+    "subnational1": "EE-78",
+    "subnational2": "",
+    "location_name": "Valmaotsa polder",
+    "latitude": 58.4707717,
+    "longitude": 26.3445692,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-08 12:57",
+    "hotspot_numSpeciesAllTime": 127
+  },
+  {
+    "location_id": "L46750212",
+    "subnational1": "EE-78",
+    "subnational2": "",
+    "location_name": "Kärevere, Tartu maakond, EE (58.417, 26.484)",
+    "latitude": 58.4173983,
+    "longitude": 26.4843129,
+    "hotspot": false
+  },
+  {
+    "location_id": "L9886403",
+    "subnational1": "EE-78",
+    "subnational2": "",
+    "location_name": "Kärevere luht",
+    "latitude": 58.4257634,
+    "longitude": 26.5134001,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-23 14:45",
+    "hotspot_numSpeciesAllTime": 138
+  },
+  {
+    "location_id": "L1364905",
+    "subnational1": "EE-49",
+    "subnational2": "",
+    "location_name": "Jõgevamaa",
+    "latitude": 58.7194443,
+    "longitude": 26.561785,
+    "hotspot": false
+  },
+  {
+    "location_id": "L3293740",
+    "subnational1": "EE-84",
+    "subnational2": "",
+    "location_name": "Kuuraniidu õpperada",
+    "latitude": 58.4532031,
+    "longitude": 25.1682303,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-04 06:28",
+    "hotspot_numSpeciesAllTime": 129
+  },
+  {
+    "location_id": "L46778762",
+    "subnational1": "EE-84",
+    "subnational2": "",
+    "location_name": "Sandra, Viljandi maakond, EE (58.448, 25.14)",
+    "latitude": 58.4481872,
+    "longitude": 25.1397976,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46779150",
+    "subnational1": "EE-84",
+    "subnational2": "",
+    "location_name": "Kildu-Oksa-Tõramaa, Sandra, Viljandi maakond, EE (58.437, 25.058)",
+    "latitude": 58.4366267,
+    "longitude": 25.0583652,
+    "hotspot": false
+  },
+  {
+    "location_id": "L30019929",
+    "subnational1": "EE-84",
+    "subnational2": "",
+    "location_name": "Koprarada",
+    "latitude": 58.4308077,
+    "longitude": 25.0321984,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-04 08:57",
+    "hotspot_numSpeciesAllTime": 82
+  },
+  {
+    "location_id": "L9886174",
+    "subnational1": "EE-84",
+    "subnational2": "",
+    "location_name": "Ingatsi õpperada",
+    "latitude": 58.4530771,
+    "longitude": 25.0365973,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-04 10:39",
+    "hotspot_numSpeciesAllTime": 95
+  },
+  {
+    "location_id": "L46785955",
+    "subnational1": "EE-67",
+    "subnational2": "",
+    "location_name": "Riisa, Pärnu maakond, EE (58.464, 24.991)",
+    "latitude": 58.4637134,
+    "longitude": 24.9910471,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46796114",
+    "subnational1": "EE-67",
+    "subnational2": "",
+    "location_name": "Riisa, Pärnu maakond, EE (58.46, 24.991)",
+    "latitude": 58.4596452,
+    "longitude": 24.9908987,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46803831",
+    "subnational1": "EE-70",
+    "subnational2": "",
+    "location_name": "Avaste, Rapla maakond, EE (58.71, 24.228)",
+    "latitude": 58.710488,
+    "longitude": 24.2275251,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46804606",
+    "subnational1": "EE-70",
+    "subnational2": "",
+    "location_name": "Vängla, Rapla maakond, EE (58.735, 24.23)",
+    "latitude": 58.7350449,
+    "longitude": 24.23011,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46807243",
+    "subnational1": "EE-70",
+    "subnational2": "",
+    "location_name": "Kirbla-Rumba-Vana-Vigala, Paljasmaa, Rapla maakond, EE (58.747, 24.194)",
+    "latitude": 58.747327,
+    "longitude": 24.1939954,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46812264",
+    "subnational1": "EE-67",
+    "subnational2": "",
+    "location_name": "Laulepa, Pärnu maakond, EE (58.705, 23.676)",
+    "latitude": 58.7048866,
+    "longitude": 23.6759066,
+    "hotspot": false
+  },
+  {
+    "location_id": "L28607530",
+    "subnational1": "EE-67",
+    "subnational2": "",
+    "location_name": "Keemu vaatetorn",
+    "latitude": 58.7454515,
+    "longitude": 23.6741638,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-04 21:22",
+    "hotspot_numSpeciesAllTime": 144
+  },
+  {
+    "location_id": "L46824409",
+    "subnational1": "EE-67",
+    "subnational2": "",
+    "location_name": "Seli, Pärnu maakond, EE (58.749, 23.845)",
+    "latitude": 58.7489179,
+    "longitude": 23.8447835,
+    "hotspot": false
+  },
+  {
+    "location_id": "L9801315",
+    "subnational1": "EE-59",
+    "subnational2": "",
+    "location_name": "Kloostri linnuvaatlustorn",
+    "latitude": 58.7542456,
+    "longitude": 23.8439798,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-05 05:27",
+    "hotspot_numSpeciesAllTime": 122
+  },
+  {
+    "location_id": "L46845185",
+    "subnational1": "EE-67",
+    "subnational2": "",
+    "location_name": "Kloostri, Pärnu maakond, EE (58.739, 23.832)",
+    "latitude": 58.738923,
+    "longitude": 23.8320118,
+    "hotspot": false
+  },
+  {
+    "location_id": "L9886043",
+    "subnational1": "EE-59",
+    "subnational2": "",
+    "location_name": "Haeska mõis ja pargiala",
+    "latitude": 58.7866842,
+    "longitude": 23.6645559,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-05 06:49",
+    "hotspot_numSpeciesAllTime": 115
+  },
+  {
+    "location_id": "L42113417",
+    "subnational1": "EE-59",
+    "subnational2": "",
+    "location_name": "Haeska rannakarjamaa",
+    "latitude": 58.7825972,
+    "longitude": 23.6675751,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-05 06:56",
+    "hotspot_numSpeciesAllTime": 61
+  },
+  {
+    "location_id": "L2455331",
+    "subnational1": "EE-59",
+    "subnational2": "",
+    "location_name": "Haeska linnuvaatlustorn ja ümbrus",
+    "latitude": 58.7798803,
+    "longitude": 23.6590147,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-19 14:30",
+    "hotspot_numSpeciesAllTime": 208
+  },
+  {
+    "location_id": "L2825929",
+    "subnational1": "EE-59",
+    "subnational2": "",
+    "location_name": "Põgari-Sassi rannaniit",
+    "latitude": 58.8028624,
+    "longitude": 23.5144418,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-20 08:13",
+    "hotspot_numSpeciesAllTime": 195
+  },
+  {
+    "location_id": "L4716344",
+    "subnational1": "EE-59",
+    "subnational2": "",
+    "location_name": "Puise vaateplatvorm",
+    "latitude": 58.766107,
+    "longitude": 23.453643,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-05 09:51",
+    "hotspot_numSpeciesAllTime": 190
+  },
+  {
+    "location_id": "L46883870",
+    "subnational1": "EE-59",
+    "subnational2": "",
+    "location_name": "23 Lahe tänav, Haapsalu, Lääne maakond, EE (58.95, 23.527)",
+    "latitude": 58.9503388,
+    "longitude": 23.5274218,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46883990",
+    "subnational1": "EE-59",
+    "subnational2": "",
+    "location_name": "Vaisi-Kuijõe, Seljaküla, Lääne maakond, EE (59.091, 23.922)",
+    "latitude": 59.0909677,
+    "longitude": 23.9221217,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46913429",
+    "subnational1": "EE-59",
+    "subnational2": "",
+    "location_name": "Vaisi-Kuijõe, Lääne maakond, EE (59.11, 23.861)",
+    "latitude": 59.1098331,
+    "longitude": 23.8614984,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46913692",
+    "subnational1": "EE-59",
+    "subnational2": "",
+    "location_name": "Hindaste, Lääne maakond, EE (59.121, 23.861)",
+    "latitude": 59.1208342,
+    "longitude": 23.861054,
+    "hotspot": false
+  },
+  {
+    "location_id": "L4592708",
+    "subnational1": "EE-59",
+    "subnational2": "",
+    "location_name": "Hindaste põllud",
+    "latitude": 59.1285753,
+    "longitude": 23.8833404,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-06 07:09",
+    "hotspot_numSpeciesAllTime": 112
+  },
+  {
+    "location_id": "L46779462",
+    "subnational1": "EE-37",
+    "subnational2": "",
+    "location_name": "Saku Mõisa park",
+    "latitude": 59.2981549,
+    "longitude": 24.6671575,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-06 08:41",
+    "hotspot_numSpeciesAllTime": 34
+  },
+  {
+    "location_id": "L4592454",
+    "subnational1": "EE-37",
+    "subnational2": "",
+    "location_name": "Hirvepark",
+    "latitude": 59.4340894,
+    "longitude": 24.7371398,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-04 09:23",
+    "hotspot_numSpeciesAllTime": 106
+  },
+  {
+    "location_id": "L46944261",
+    "subnational1": "EE-37",
+    "subnational2": "",
+    "location_name": "EE (59.454, 24.785)",
+    "latitude": 59.4541762,
+    "longitude": 24.7854614,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46947423",
+    "subnational1": "EE-37",
+    "subnational2": "",
+    "location_name": "EE (59.521, 24.742)",
+    "latitude": 59.5206731,
+    "longitude": 24.7422545,
+    "hotspot": false
+  },
+  {
+    "location_id": "L46956397",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "Helsinki, Uusimaa, FI (60.116, 24.905)",
+    "latitude": 60.1164392,
+    "longitude": 24.9048797,
+    "hotspot": false
+  },
+  {
+    "location_id": "L9142465",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "Espoo--Laajalahti",
+    "latitude": 60.1935779,
+    "longitude": 24.8206026,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-01 08:40",
+    "hotspot_numSpeciesAllTime": 261
+  },
+  {
+    "location_id": "L1161011",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "Espoo--Laajalahti Maari",
+    "latitude": 60.1894974,
+    "longitude": 24.8191023,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-02 09:40",
+    "hotspot_numSpeciesAllTime": 237
+  },
+  {
+    "location_id": "L2925771",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "Espoo--Iso Huopalahti",
+    "latitude": 60.2092286,
+    "longitude": 24.8457956,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-02 22:49",
+    "hotspot_numSpeciesAllTime": 180
+  },
+  {
+    "location_id": "L4486409",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "Helsinki--Vanhankaupunginlahti Keinumäki",
+    "latitude": 60.2188647,
+    "longitude": 25.0033057,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-30 20:30",
+    "hotspot_numSpeciesAllTime": 159
+  },
+  {
+    "location_id": "L47087062",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "11 Säynäslahdentie, Helsinki, Nyland, FI (60.22, 24.992)",
+    "latitude": 60.2195433,
+    "longitude": 24.9922392,
+    "hotspot": false
+  },
+  {
+    "location_id": "L4486404",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "Helsinki--Vanhankaupunginlahti Pornaistenniemen lintutorni",
+    "latitude": 60.21413,
+    "longitude": 24.99237,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-22 13:51",
+    "hotspot_numSpeciesAllTime": 168
+  },
+  {
+    "location_id": "L14457000",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "Helsinki--Vanhankaupunginlahti Pornaistenniemen piilokoju",
+    "latitude": 60.2136793,
+    "longitude": 24.9937248,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-15 19:31",
+    "hotspot_numSpeciesAllTime": 135
+  },
+  {
+    "location_id": "L47087031",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "Matinkaaren silta, Helsinki, Uusimaa, FI (60.212, 24.989)",
+    "latitude": 60.2124826,
+    "longitude": 24.9886588,
+    "hotspot": false
+  },
+  {
+    "location_id": "L4486402",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "Helsinki--Vanhankaupunginlahti, Lammassaari",
+    "latitude": 60.20876,
+    "longitude": 25.00179,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-22 10:16",
+    "hotspot_numSpeciesAllTime": 193
+  },
+  {
+    "location_id": "L1163230",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "Helsinki--Haltiala Nature Park",
+    "latitude": 60.2706205,
+    "longitude": 24.9280215,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-18 06:59",
+    "hotspot_numSpeciesAllTime": 121
+  },
+  {
+    "location_id": "L47094696",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "13 Kuusmiehentie, Helsinki, Uusimaa, FI (60.26, 24.934)",
+    "latitude": 60.2595017,
+    "longitude": 24.9343538,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47158688",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "11 Mesenaatintie, Helsinki, Uusimaa, FI (60.21, 24.851)",
+    "latitude": 60.2097951,
+    "longitude": 24.8508989,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47162957",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "34 Vikkullantie, Helsinki, Uusimaa, FI (60.236, 25.168)",
+    "latitude": 60.2361568,
+    "longitude": 25.1684972,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47179548",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "37 Vikkullantie, Helsinki, Uusimaa, FI (60.239, 25.166)",
+    "latitude": 60.2387106,
+    "longitude": 25.1655762,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47190258",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "45 Vikkullantie, Helsinki, Uusimaa, FI (60.233, 25.167)",
+    "latitude": 60.2329927,
+    "longitude": 25.1671112,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47190390",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "Vuosaaren Satamatie, Helsinki, Uusimaa, FI (60.233, 25.161)",
+    "latitude": 60.2330036,
+    "longitude": 25.1613989,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47190926",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "45 Vuosaaren Satamatie, Helsinki, Uusimaa, FI (60.23, 25.159)",
+    "latitude": 60.2300173,
+    "longitude": 25.1586724,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47190993",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "45 Kehä III, Vantaa, Uusimaa, FI (60.227, 25.163)",
+    "latitude": 60.2267406,
+    "longitude": 25.1630337,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47191270",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "Nimetön Tie, Helsinki, Uusimaa, FI (60.227, 25.158)",
+    "latitude": 60.2268665,
+    "longitude": 25.1582084,
+    "hotspot": false
+  },
+  {
+    "location_id": "L1173243",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "Helsinki--Mustavuori",
+    "latitude": 60.2381315,
+    "longitude": 25.1433897,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-29 08:57",
+    "hotspot_numSpeciesAllTime": 66
+  },
+  {
+    "location_id": "L47359502",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "3 Vantaanportinkatu, Vantaa, Uusimaa, FI (60.291, 24.964)",
+    "latitude": 60.2905937,
+    "longitude": 24.9642336,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47264821",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "7 Kalkkivuorentie, Helsinki, Uusimaa, FI (60.275, 25.075)",
+    "latitude": 60.2751482,
+    "longitude": 25.0746713,
+    "hotspot": false
+  },
+  {
+    "location_id": "L1056463",
+    "subnational1": "FI-09",
+    "subnational2": "",
+    "location_name": "Kymenlaakso",
+    "latitude": 60.7481858,
+    "longitude": 26.4138254,
+    "hotspot": false
+  },
+  {
+    "location_id": "L4486537",
+    "subnational1": "FI-02",
+    "subnational2": "",
+    "location_name": "Lappeenranta--Joutseno, Konnunsuo mutka lintutorni",
+    "latitude": 61.03834,
+    "longitude": 28.55171,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-28 11:36",
+    "hotspot_numSpeciesAllTime": 154
+  },
+  {
+    "location_id": "L47370890",
+    "subnational1": "FI-02",
+    "subnational2": "",
+    "location_name": "1162 Kivisaarentie, Lappeenranta, Etelä-Karjala, FI (61.03, 28.505)",
+    "latitude": 61.0299306,
+    "longitude": 28.504716,
+    "hotspot": false
+  },
+  {
+    "location_id": "L8570242",
+    "subnational1": "FI-02",
+    "subnational2": "",
+    "location_name": "Lappeenranta--Joutseno, Kotasaari altaat",
+    "latitude": 61.0439204,
+    "longitude": 28.4864734,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-27 21:25",
+    "hotspot_numSpeciesAllTime": 191
+  },
+  {
+    "location_id": "L47411423",
+    "subnational1": "FI-02",
+    "subnational2": "",
+    "location_name": "Nimetön Tie, Lappeenranta, Etelä-Karjala, FI (61.035, 28.492)",
+    "latitude": 61.0345133,
+    "longitude": 28.4924362,
+    "hotspot": false
+  },
+  {
+    "location_id": "L4486546",
+    "subnational1": "FI-02",
+    "subnational2": "",
+    "location_name": "Parikkala--Siikalahti lintutorni",
+    "latitude": 61.56098,
+    "longitude": 29.56537,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-28 16:52",
+    "hotspot_numSpeciesAllTime": 151
+  },
+  {
+    "location_id": "L4486547",
+    "subnational1": "FI-02",
+    "subnational2": "",
+    "location_name": "Parikkala--Siikalahti Patotie",
+    "latitude": 61.56563,
+    "longitude": 29.56771,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-28 22:58",
+    "hotspot_numSpeciesAllTime": 189
+  },
+  {
+    "location_id": "L47433079",
+    "subnational1": "FI-02",
+    "subnational2": "",
+    "location_name": "582 Kaukolantie, Parikkala, Etelä-Karjala, FI (61.55, 29.588)",
+    "latitude": 61.5504713,
+    "longitude": 29.5881014,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47434432",
+    "subnational1": "FI-02",
+    "subnational2": "",
+    "location_name": "404 Kannaksentie, Parikkala, Etelä-Karjala, FI (61.542, 29.577)",
+    "latitude": 61.5420902,
+    "longitude": 29.5770419,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47437913",
+    "subnational1": "FI-02",
+    "subnational2": "",
+    "location_name": "250 Kannaksentie, Parikkala, Etelä-Karjala, FI (61.536, 29.551)",
+    "latitude": 61.5364704,
+    "longitude": 29.5513494,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47441214",
+    "subnational1": "FI-02",
+    "subnational2": "",
+    "location_name": "52 Parikkalantie, Parikkala, Etelä-Karjala, FI (61.546, 29.499)",
+    "latitude": 61.5455119,
+    "longitude": 29.4989988,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47520747",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "Nimetön Tie, Lapinjärvi, Uusimaa, FI (60.654, 26.122)",
+    "latitude": 60.6544467,
+    "longitude": 26.1216604,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47521971",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "Nimetön Tie, Lapinjärvi, Uusimaa, FI (60.66, 26.122)",
+    "latitude": 60.6600787,
+    "longitude": 26.1222366,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47523264",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "Nimetön Tie, Lapinjärvi, Uusimaa, FI (60.664, 26.123)",
+    "latitude": 60.6642063,
+    "longitude": 26.122798,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47524065",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "Nimetön Tie, Lapinjärvi, Uusimaa, FI (60.669, 26.119)",
+    "latitude": 60.6688951,
+    "longitude": 26.1191894,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47526872",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "Nimetön Tie, Lapinjärvi, Uusimaa, FI (60.671, 26.107)",
+    "latitude": 60.671042,
+    "longitude": 26.1073262,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47526877",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "Nimetön Tie, Lapinjärvi, Uusimaa, FI (60.671, 26.107)",
+    "latitude": 60.671042,
+    "longitude": 26.1073262,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47767414",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "Nimetön Tie, Lapinjärvi, Uusimaa, FI (60.664, 26.103)",
+    "latitude": 60.6644925,
+    "longitude": 26.1027097,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47553145",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "Nimetön Tie, Lapinjärvi, Uusimaa, FI (60.664, 26.103)",
+    "latitude": 60.6641858,
+    "longitude": 26.1030185,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47555966",
+    "subnational1": "FI-18",
+    "subnational2": "",
+    "location_name": "Nimetön Tie, Lapinjärvi, Uusimaa, FI (60.653, 26.139)",
+    "latitude": 60.652581,
+    "longitude": 26.1385416,
+    "hotspot": false
+  },
+  {
+    "location_id": "L12452496",
+    "subnational1": "FI-16",
+    "subnational2": "",
+    "location_name": "Päijänne Tavastia",
+    "latitude": 61.2150561,
+    "longitude": 25.7212077,
+    "hotspot": false
+  },
+  {
+    "location_id": "L4486470",
+    "subnational1": "FI-08",
+    "subnational2": "",
+    "location_name": "Joutsa--Haapasuo lintutorni",
+    "latitude": 61.9123195,
+    "longitude": 26.0760292,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-29 09:37",
+    "hotspot_numSpeciesAllTime": 83
+  },
+  {
+    "location_id": "L18287058",
+    "subnational1": "FI-08",
+    "subnational2": "",
+    "location_name": "Joutsa--Leivonmäki NP, Birdwatching Tower",
+    "latitude": 61.8896829,
+    "longitude": 26.0295532,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-15 05:16",
+    "hotspot_numSpeciesAllTime": 28
+  },
+  {
+    "location_id": "L47644955",
+    "subnational1": "FI-15",
+    "subnational2": "",
+    "location_name": "58 Katokummuntie, Suonenjoki, Pohjois-Savo, FI (62.674, 27.37)",
+    "latitude": 62.6741366,
+    "longitude": 27.3701645,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47652431",
+    "subnational1": "FI-05",
+    "subnational2": "",
+    "location_name": "Paltamo, Kainuu, FI (64.33, 28.075)",
+    "latitude": 64.3295871,
+    "longitude": 28.0751712,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47669701",
+    "subnational1": "FI-05",
+    "subnational2": "",
+    "location_name": "Nimetön Tie, Ristijärvi, Kainuu, FI (64.477, 28.261)",
+    "latitude": 64.4772346,
+    "longitude": 28.260505,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47691957",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "3 Anninniementie, Kuusamo, Pohjois-Pohjanmaa, FI (65.942, 29.197)",
+    "latitude": 65.9415352,
+    "longitude": 29.1965186,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47699192",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "55 Torangintaival, Kuusamo, Pohjois-Pohjanmaa, FI (65.942, 29.216)",
+    "latitude": 65.942201,
+    "longitude": 29.2161557,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47703859",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "Hiltusentie, Kuusamo, Pohjois-Pohjanmaa, FI (65.821, 29.564)",
+    "latitude": 65.8214715,
+    "longitude": 29.5643684,
+    "hotspot": false
+  },
+  {
+    "location_id": "L962368",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "Kuusamo--Iivaara",
+    "latitude": 65.8033041,
+    "longitude": 29.6672487,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-30 05:10",
+    "hotspot_numSpeciesAllTime": 127
+  },
+  {
+    "location_id": "L2941144",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "Kuusamo--Torankijärvi Jätäri lintutorni",
+    "latitude": 65.956721,
+    "longitude": 29.1743231,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-26 18:00",
+    "hotspot_numSpeciesAllTime": 168
+  },
+  {
+    "location_id": "L47764797",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "84 Torangintaival, Kuusamo, Pohjois-Pohjanmaa, FI (65.938, 29.234)",
+    "latitude": 65.9379696,
+    "longitude": 29.2342092,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47769886",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "11 Vasarakankaantie, Kuusamo, Pohjois-Pohjanmaa, FI (66.054, 28.974)",
+    "latitude": 66.0541698,
+    "longitude": 28.9739433,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47772112",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "2 Aitapurontie, Kuusamo, Pohjois-Pohjanmaa, FI (66.069, 29.136)",
+    "latitude": 66.0690344,
+    "longitude": 29.1357105,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47773617",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "25 Kärpänkyläntie, Kuusamo, Pohjois-Pohjanmaa, FI (66.02, 29.307)",
+    "latitude": 66.0201693,
+    "longitude": 29.3073549,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47775469",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "60 Hangasjärventie, Kuusamo, Pohjois-Pohjanmaa, FI (66.015, 29.432)",
+    "latitude": 66.0148338,
+    "longitude": 29.4318012,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47776698",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "100 Kärpänkyläntie, Kuusamo, Pohjois-Pohjanmaa, FI (66.02, 29.458)",
+    "latitude": 66.0204626,
+    "longitude": 29.4579935,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47777916",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "28 Multasniementie, Kuusamo, Pohjois-Pohjanmaa, FI (66.075, 29.49)",
+    "latitude": 66.0754534,
+    "longitude": 29.4902243,
+    "hotspot": false
+  },
+  {
+    "location_id": "L4486734",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "Kuusamo--Vuotunki lintutorni",
+    "latitude": 66.14098,
+    "longitude": 29.58329,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-16 18:36",
+    "hotspot_numSpeciesAllTime": 129
+  },
+  {
+    "location_id": "L47788869",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "189 Virkkulantie, Kuusamo, Pohjois-Pohjanmaa, FI (66.165, 29.49)",
+    "latitude": 66.1648835,
+    "longitude": 29.4902426,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47789816",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "237 Virkkulantie, Kuusamo, Pohjois-Pohjanmaa, FI (66.13, 29.544)",
+    "latitude": 66.1299443,
+    "longitude": 29.5442539,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47793608",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "259 Virkkulantie, Kuusamo, Pohjois-Pohjanmaa, FI (66.122, 29.587)",
+    "latitude": 66.1218434,
+    "longitude": 29.5866433,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47816250",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "235 Virkkulantie, Kuusamo, Pohjois-Pohjanmaa, FI (66.132, 29.538)",
+    "latitude": 66.1318348,
+    "longitude": 29.5384483,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47816321",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "215 Virkkulantie, Kuusamo, Pohjois-Pohjanmaa, FI (66.146, 29.512)",
+    "latitude": 66.1456521,
+    "longitude": 29.5115342,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47816429",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "201 Virkkulantie, Kuusamo, Pohjois-Pohjanmaa, FI (66.155, 29.496)",
+    "latitude": 66.1554544,
+    "longitude": 29.4957181,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47817123",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "121 Suolavaarantie, Kuusamo, Pohjois-Pohjanmaa, FI (66.166, 29.312)",
+    "latitude": 66.1662364,
+    "longitude": 29.3121699,
+    "hotspot": false
+  },
+  {
+    "location_id": "L4486733",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "Kuusamo--Rukajärvi, Antinperä",
+    "latitude": 66.12877,
+    "longitude": 29.29521,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-17 05:00",
+    "hotspot_numSpeciesAllTime": 96
+  },
+  {
+    "location_id": "L3344359",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "Kuusamo--Konttainen",
+    "latitude": 66.2099243,
+    "longitude": 29.212389,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-02 09:54",
+    "hotspot_numSpeciesAllTime": 130
+  },
+  {
+    "location_id": "L1050671",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "Kuusamo--Valtavaara",
+    "latitude": 66.1901884,
+    "longitude": 29.1980553,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-01 05:14",
+    "hotspot_numSpeciesAllTime": 154
+  },
+  {
+    "location_id": "L47823165",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "2 Massorivaarantie, Kuusamo, Pohjois-Pohjanmaa, FI (66.213, 29.2)",
+    "latitude": 66.212742,
+    "longitude": 29.2001509,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47826329",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "3 Bistrotie, Kuusamo, Pohjois-Pohjanmaa, FI (66.171, 29.172)",
+    "latitude": 66.1706702,
+    "longitude": 29.1718243,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47830084",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "24 Varastotie, Kemijärvi, Lappi, FI (66.726, 27.406)",
+    "latitude": 66.7259836,
+    "longitude": 27.4056855,
+    "hotspot": false
+  },
+  {
+    "location_id": "L4486707",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "Sodankylä--Ilmakkijärvi lintutorni",
+    "latitude": 67.707017,
+    "longitude": 26.7463832,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-17 17:35",
+    "hotspot_numSpeciesAllTime": 111
+  },
+  {
+    "location_id": "L47859997",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "412 Kiilopääntie, Sodankylä, Lappi, FI (68.336, 27.429)",
+    "latitude": 68.3361902,
+    "longitude": 27.4286008,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47886667",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "Nimetön Tie, Sodankylä, Lappi, FI (68.33, 27.495)",
+    "latitude": 68.3301692,
+    "longitude": 27.4947579,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47888097",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "Sodankylä, Lapland, FI (68.318, 27.533)",
+    "latitude": 68.3177196,
+    "longitude": 27.5331677,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47889958",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "Sodankylä, Lapland, FI (68.329, 27.515)",
+    "latitude": 68.3294301,
+    "longitude": 27.5148259,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47890970",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "Nimetön Tie, Lappi, FI (68.346, 27.498)",
+    "latitude": 68.3464255,
+    "longitude": 27.4983558,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47894459",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "80 Lentokentäntie, Inari, Lappi, FI (68.61, 27.47)",
+    "latitude": 68.6100748,
+    "longitude": 27.4704611,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47897069",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "2 Tahkotörmäntie, Inari, Lappi, FI (68.679, 27.631)",
+    "latitude": 68.6785974,
+    "longitude": 27.6305022,
+    "hotspot": false
+  },
+  {
+    "location_id": "L4486749",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "Inari--Mielikköjärvi lintutorni",
+    "latitude": 68.73486,
+    "longitude": 27.70129,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-18 13:25",
+    "hotspot_numSpeciesAllTime": 112
+  },
+  {
+    "location_id": "L47913475",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "727 Koppelontie, Inari, Lappi, FI (68.716, 27.611)",
+    "latitude": 68.7164732,
+    "longitude": 27.6106682,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47953188",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "390 Toivoniementie, Inari, Lappi, FI (69.071, 27.089)",
+    "latitude": 69.0710927,
+    "longitude": 27.0888038,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47922589",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "410 Toivoniementie, Inari, Lappi, FI (69.073, 27.085)",
+    "latitude": 69.0726268,
+    "longitude": 27.085182,
+    "hotspot": false
+  },
+  {
+    "location_id": "L4486712",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "Inari--Kaamanen Toivoniemi lintutorni",
+    "latitude": 69.07065,
+    "longitude": 27.10432,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-27 17:01",
+    "hotspot_numSpeciesAllTime": 119
+  },
+  {
+    "location_id": "L1292607",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Finnmark",
+    "latitude": 69.9277818,
+    "longitude": 25.8130123,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47953460",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "151 Toivoniementie, Inari, Lappi, FI (69.059, 27.092)",
+    "latitude": 69.058734,
+    "longitude": 27.092399,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47954096",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "717 Sevettijärventie, Inari, Lappi, FI (69.072, 27.346)",
+    "latitude": 69.0724891,
+    "longitude": 27.3456544,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47954526",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "1827 Sevettijärventie, Inari, Lappi, FI (69.088, 27.578)",
+    "latitude": 69.0878418,
+    "longitude": 27.577704,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47956110",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "6500 Sevettijärventie, Inari, Lappi, FI (69.349, 28.239)",
+    "latitude": 69.3489018,
+    "longitude": 28.2389543,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47956082",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "9084 Sevettijärventie, Inari, Lappi, FI (69.512, 28.6)",
+    "latitude": 69.5116671,
+    "longitude": 28.600335,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47957707",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "1 Riksvei 92, Finnmark, NO (69.693, 29.371)",
+    "latitude": 69.693344,
+    "longitude": 29.370711,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47956629",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "10932 Sevettijärventie, Inari, Lappi, FI (69.598, 28.908)",
+    "latitude": 69.5982734,
+    "longitude": 28.9084828,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47956800",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "11440 Sevettijärventie, Inari, Lappi, FI (69.615, 29.007)",
+    "latitude": 69.6147139,
+    "longitude": 29.0073593,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47957065",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "11918 Sevettijärventie, Inari, Lappi, FI (69.647, 29.054)",
+    "latitude": 69.6474968,
+    "longitude": 29.0540361,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47959634",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "2376 Neidenveien, Finnmark, NO (69.691, 29.574)",
+    "latitude": 69.6905492,
+    "longitude": 29.5743457,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47960539",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Bjørnevatn, Finnmark, NO (69.664, 29.971)",
+    "latitude": 69.6639523,
+    "longitude": 29.9711418,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47961837",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "66 Sekundær Fylkesveg 8850, Finnmark, NO (69.501, 30.049)",
+    "latitude": 69.5013275,
+    "longitude": 30.0487406,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47963645",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Sekundær Fylkesveg 8850, Finnmark, NO (69.456, 30.012)",
+    "latitude": 69.4559708,
+    "longitude": 30.0124333,
+    "hotspot": false
+  },
+  {
+    "location_id": "L19641666",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Skrøytnes forfallen vei",
+    "latitude": 69.4164298,
+    "longitude": 29.9856467,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-22 12:49",
+    "hotspot_numSpeciesAllTime": 59
+  },
+  {
+    "location_id": "L48003556",
+    "subnational1": "RU-MUR",
+    "subnational2": "",
+    "location_name": "47K-89, Murmanskaya oblast', RU (69.416, 30.041)",
+    "latitude": 69.4158081,
+    "longitude": 30.0412345,
+    "hotspot": false
+  },
+  {
+    "location_id": "L19624003",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Skrøytnes--Fugletårn og myrene",
+    "latitude": 69.4163444,
+    "longitude": 29.9463269,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-03 19:19",
+    "hotspot_numSpeciesAllTime": 120
+  },
+  {
+    "location_id": "L47980976",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "883 Skrøytnesveien, Finnmark, NO (69.427, 29.87)",
+    "latitude": 69.4271148,
+    "longitude": 29.8701066,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47981358",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "920 Skrøytnesveien, Finnmark, NO (69.426, 29.86)",
+    "latitude": 69.4261429,
+    "longitude": 29.8596038,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47982210",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Sekundær Fylkesveg 361, Finnmark, NO (69.427, 29.842)",
+    "latitude": 69.4267216,
+    "longitude": 29.8421116,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47984288",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "917-114 Sekundær Fylkesveg 8850, Finnmark, NO (69.435, 29.848)",
+    "latitude": 69.4353654,
+    "longitude": 29.8481874,
+    "hotspot": false
+  },
+  {
+    "location_id": "L19635890",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Skogfoss--Nyrudveien bukt",
+    "latitude": 69.368775,
+    "longitude": 29.684692,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-23 12:06",
+    "hotspot_numSpeciesAllTime": 54
+  },
+  {
+    "location_id": "L47988335",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Finnmark, NO (69.34, 29.516)",
+    "latitude": 69.3401517,
+    "longitude": 29.5158583,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47989381",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Sekundær Fylkesveg 8850, Finnmark, NO (69.357, 29.425)",
+    "latitude": 69.3565964,
+    "longitude": 29.4250831,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47990239",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Sekundær Fylkesveg 8850, Finnmark, NO (69.344, 29.39)",
+    "latitude": 69.3442187,
+    "longitude": 29.3898496,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47990499",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Sekundær Fylkesveg 8850, Finnmark, NO (69.338, 29.365)",
+    "latitude": 69.3377508,
+    "longitude": 29.3652975,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47991499",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "1 Sekundær Fylkesveg 8850, Finnmark, NO (69.277, 29.256)",
+    "latitude": 69.2772431,
+    "longitude": 29.2556216,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47993049",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "5140 Nyrudveien, Finnmark, NO (69.231, 29.162)",
+    "latitude": 69.2311182,
+    "longitude": 29.161707,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47993969",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "19 Sekundær Fylkesveg 8850, Finnmark, NO (69.206, 29.148)",
+    "latitude": 69.2056514,
+    "longitude": 29.1475629,
+    "hotspot": false
+  },
+  {
+    "location_id": "L47997524",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "1 Sekundær Fylkesveg 8850, Finnmark, NO (69.155, 29.203)",
+    "latitude": 69.1547449,
+    "longitude": 29.2031694,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48019208",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Vei Uten Navn, Finnmark, NO (69.142, 29.169)",
+    "latitude": 69.1417672,
+    "longitude": 29.168708,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48019799",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Vei Uten Navn, Finnmark, NO (69.131, 29.162)",
+    "latitude": 69.1308923,
+    "longitude": 29.1616191,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48020698",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Vei Uten Navn, Finnmark, NO (69.107, 29.175)",
+    "latitude": 69.1065159,
+    "longitude": 29.1748751,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48021553",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Vei Uten Navn, Finnmark, NO (69.082, 29.149)",
+    "latitude": 69.0824166,
+    "longitude": 29.1485113,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48029796",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Vei Uten Navn, Finnmark, NO (69.081, 29.149)",
+    "latitude": 69.0809989,
+    "longitude": 29.1486006,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48029922",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Vei Uten Navn, Finnmark, NO (69.091, 29.157)",
+    "latitude": 69.0906069,
+    "longitude": 29.1565209,
+    "hotspot": false
+  },
+  {
+    "location_id": "L9010854",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Pasvik--Toppåsvatnet",
+    "latitude": 69.0990956,
+    "longitude": 29.165845,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-20 05:51",
+    "hotspot_numSpeciesAllTime": 36
+  },
+  {
+    "location_id": "L48030595",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Vei Uten Navn, Finnmark, NO (69.121, 29.17)",
+    "latitude": 69.1206192,
+    "longitude": 29.1695281,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48030770",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Vei Uten Navn, Finnmark, NO (69.128, 29.164)",
+    "latitude": 69.128088,
+    "longitude": 29.1638603,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48030989",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Vei Uten Navn, Finnmark, NO (69.142, 29.17)",
+    "latitude": 69.1424221,
+    "longitude": 29.170406,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48031226",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Vei Uten Navn, Finnmark, NO (69.148, 29.185)",
+    "latitude": 69.1482326,
+    "longitude": 29.1853171,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48031334",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "1 Sekundær Fylkesveg 8850, Finnmark, NO (69.151, 29.198)",
+    "latitude": 69.150555,
+    "longitude": 29.1979156,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48031405",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "1 Sekundær Fylkesveg 8850, Finnmark, NO (69.147, 29.212)",
+    "latitude": 69.1472303,
+    "longitude": 29.212381,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48031710",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Sekundær Fylkesveg 362, Finnmark, NO (69.143, 29.24)",
+    "latitude": 69.1428998,
+    "longitude": 29.2395906,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48032852",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "13 Sekundær Fylkesveg 8850, Finnmark, NO (69.187, 29.191)",
+    "latitude": 69.1871397,
+    "longitude": 29.1911822,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48033351",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Sekundær Fylkesveg 8850, Finnmark, NO (69.218, 29.157)",
+    "latitude": 69.2184257,
+    "longitude": 29.1566357,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48034277",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "1-13 Sekundær Fylkesveg 8850, Finnmark, NO (69.263, 29.255)",
+    "latitude": 69.2633118,
+    "longitude": 29.255144,
+    "hotspot": false
+  },
+  {
+    "location_id": "L19627810",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Nyrudveien gård og jorder @ 69.3037, 29.2632",
+    "latitude": 69.3037147,
+    "longitude": 29.263223,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-20 08:53",
+    "hotspot_numSpeciesAllTime": 34
+  },
+  {
+    "location_id": "L48038670",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "2288 Nyrudveien, Finnmark, NO (69.35, 29.615)",
+    "latitude": 69.350186,
+    "longitude": 29.6152491,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48039778",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "1057 Nyrudveien, Finnmark, NO (69.424, 29.819)",
+    "latitude": 69.4235648,
+    "longitude": 29.8190355,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48109727",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "52 Sekundær Fylkesveg 361, Finnmark, NO (69.425, 29.852)",
+    "latitude": 69.4246259,
+    "longitude": 29.8515926,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48058427",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "18 Doktor Wessels gate, Finnmark, NO (69.727, 30.045)",
+    "latitude": 69.7271998,
+    "longitude": 30.0454771,
+    "hotspot": false
+  },
+  {
+    "location_id": "L1120536",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Færdesmyra naturreservat",
+    "latitude": 69.7265403,
+    "longitude": 29.3007529,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-01 16:43",
+    "hotspot_numSpeciesAllTime": 68
+  },
+  {
+    "location_id": "L48109672",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "510 Rávttebelgeainu, Finnmark, NO (70.133, 28.528)",
+    "latitude": 70.1330968,
+    "longitude": 28.5281069,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48109839",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "1 E6, Finnmark, NO (70.136, 28.531)",
+    "latitude": 70.1360839,
+    "longitude": 28.531178,
+    "hotspot": false
+  },
+  {
+    "location_id": "L1120228",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Varangerbotn NR",
+    "latitude": 70.1717239,
+    "longitude": 28.5635339,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-03 13:05",
+    "hotspot_numSpeciesAllTime": 171
+  },
+  {
+    "location_id": "L48113178",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "9 Løvlia, Finnmark, NO (70.211, 28.19)",
+    "latitude": 70.2113831,
+    "longitude": 28.1901872,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48113937",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Austertanaveien, Finnmark, NO (70.307, 28.198)",
+    "latitude": 70.3067024,
+    "longitude": 28.1982091,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48114545",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "1444 Austertanaveien, Finnmark, NO (70.318, 28.208)",
+    "latitude": 70.3177461,
+    "longitude": 28.2077475,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48114998",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "1973 Austertanaveien, Finnmark, NO (70.364, 28.234)",
+    "latitude": 70.3639517,
+    "longitude": 28.2343917,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48115212",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "2016 Austertanaveien, Finnmark, NO (70.368, 28.233)",
+    "latitude": 70.3677812,
+    "longitude": 28.2329058,
+    "hotspot": false
+  },
+  {
+    "location_id": "L1075886",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Tana Delta",
+    "latitude": 70.5115579,
+    "longitude": 28.4360504,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-30 12:00",
+    "hotspot_numSpeciesAllTime": 132
+  },
+  {
+    "location_id": "L48120121",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Høyholmveien, Finnmark, NO (70.512, 28.453)",
+    "latitude": 70.5117362,
+    "longitude": 28.4533456,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48120235",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Høyholmveien, Finnmark, NO (70.51, 28.434)",
+    "latitude": 70.5098422,
+    "longitude": 28.4339854,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48123204",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "211 Kvartsittveien, Finnmark, NO (70.451, 28.511)",
+    "latitude": 70.4507597,
+    "longitude": 28.5108205,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48125393",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Primær Fylkesveg 890, Finnmark, NO (70.483, 28.864)",
+    "latitude": 70.4828353,
+    "longitude": 28.8636759,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48199726",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Primær Fylkesveg 890, Finnmark, NO (70.481, 28.871)",
+    "latitude": 70.4813595,
+    "longitude": 28.870735,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48128196",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Primær Fylkesveg 890, Finnmark, NO (70.481, 28.871)",
+    "latitude": 70.4813516,
+    "longitude": 28.8707109,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48129220",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Primær Fylkesveg 890, Finnmark, NO (70.48, 28.893)",
+    "latitude": 70.4796608,
+    "longitude": 28.8931891,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48135064",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Primær Fylkesveg 890, Finnmark, NO (70.477, 28.912)",
+    "latitude": 70.4768805,
+    "longitude": 28.9124167,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48133079",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Primær Fylkesveg 890, Finnmark, NO (70.472, 28.945)",
+    "latitude": 70.4722871,
+    "longitude": 28.9445581,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48135038",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "6923 Austertanaveien, Finnmark, NO (70.487, 29.044)",
+    "latitude": 70.4868254,
+    "longitude": 29.0435397,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48136047",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "6975 Austertanaveien, Finnmark, NO (70.49, 29.057)",
+    "latitude": 70.4899813,
+    "longitude": 29.0567959,
+    "hotspot": false
+  },
+  {
+    "location_id": "L1121036",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Kongsfjordfjellet",
+    "latitude": 70.5315,
+    "longitude": 29.0963,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-03 19:31",
+    "hotspot_numSpeciesAllTime": 127
+  },
+  {
+    "location_id": "L48141733",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Primær Fylkesveg 890, Finnmark, NO (70.544, 29.073)",
+    "latitude": 70.5435828,
+    "longitude": 29.0734555,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48143092",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "9980 Primær Fylkesveg 890, Finnmark, NO (70.567, 29.087)",
+    "latitude": 70.5665138,
+    "longitude": 29.0865211,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48143488",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "1 Primær Fylkesveg 890, Finnmark, NO (70.584, 29.083)",
+    "latitude": 70.5839735,
+    "longitude": 29.0826599,
+    "hotspot": false
+  },
+  {
+    "location_id": "L17598337",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Kongsfjorddalen",
+    "latitude": 70.6035419,
+    "longitude": 29.0948701,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-03 19:44",
+    "hotspot_numSpeciesAllTime": 78
+  },
+  {
+    "location_id": "L48147574",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "1 Primær Fylkesveg 890, Finnmark, NO (70.617, 29.124)",
+    "latitude": 70.6169146,
+    "longitude": 29.1240471,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48147662",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Primær Fylkesveg 890, Finnmark, NO (70.68, 29.266)",
+    "latitude": 70.6802351,
+    "longitude": 29.2656781,
+    "hotspot": false
+  },
+  {
+    "location_id": "L19462030",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Kongsfjord Gjestehus",
+    "latitude": 70.7242395,
+    "longitude": 29.3529015,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-04 07:48",
+    "hotspot_numSpeciesAllTime": 78
+  },
+  {
+    "location_id": "L48160929",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Primær Fylkesveg 890, Finnmark, NO (70.75, 29.3)",
+    "latitude": 70.7503343,
+    "longitude": 29.3003092,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48161645",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Primær Fylkesveg 890, Finnmark, NO (70.767, 29.353)",
+    "latitude": 70.7670607,
+    "longitude": 29.3529087,
+    "hotspot": false
+  },
+  {
+    "location_id": "L8993232",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Berlevåg--Storelvdeltaet",
+    "latitude": 70.8533307,
+    "longitude": 29.0994639,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-24 11:15",
+    "hotspot_numSpeciesAllTime": 92
+  },
+  {
+    "location_id": "L48198710",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Sekundær Fylkesveg 271, Finnmark, NO (70.868, 29.05)",
+    "latitude": 70.8679004,
+    "longitude": 29.0502209,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48198809",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Sekundær Fylkesveg 271, Finnmark, NO (70.868, 29.065)",
+    "latitude": 70.8678118,
+    "longitude": 29.064502,
+    "hotspot": false
+  },
+  {
+    "location_id": "L1120097",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Kjølnes Lighthouse",
+    "latitude": 70.8530355,
+    "longitude": 29.2356491,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-22 11:46",
+    "hotspot_numSpeciesAllTime": 95
+  },
+  {
+    "location_id": "L48204698",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Primær Fylkesveg 890, Finnmark, NO (70.804, 29.263)",
+    "latitude": 70.8037799,
+    "longitude": 29.2632488,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48208685",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Primær Fylkesveg 890, Finnmark, NO (70.575, 29.083)",
+    "latitude": 70.5746943,
+    "longitude": 29.0828222,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48210144",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Primær Fylkesveg 891, Finnmark, NO (70.521, 29.175)",
+    "latitude": 70.5208418,
+    "longitude": 29.1748982,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48215060",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Vei Uten Navn, Finnmark, NO (70.514, 29.212)",
+    "latitude": 70.5142371,
+    "longitude": 29.2115863,
+    "hotspot": false
+  },
+  {
+    "location_id": "L1120508",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Bergebyelva elvemunning",
+    "latitude": 70.1475,
+    "longitude": 28.9003,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-25 09:26",
+    "hotspot_numSpeciesAllTime": 82
+  },
+  {
+    "location_id": "L8998799",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Vadsø--Ytrebyfjæra",
+    "latitude": 70.0737483,
+    "longitude": 29.7583499,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-27 14:42",
+    "hotspot_numSpeciesAllTime": 110
+  },
+  {
+    "location_id": "L1120373",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Vadsøya",
+    "latitude": 70.0658,
+    "longitude": 29.7477,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-29 11:36",
+    "hotspot_numSpeciesAllTime": 162
+  },
+  {
+    "location_id": "L48262925",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "37 E75, Finnmark, NO (70.162, 30.32)",
+    "latitude": 70.1621954,
+    "longitude": 30.319942,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48264792",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Kvalnesvegen, Finnmark, NO (70.222, 30.449)",
+    "latitude": 70.2216844,
+    "longitude": 30.4493982,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48265185",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Kvalnesvegen, Finnmark, NO (70.238, 30.399)",
+    "latitude": 70.2382106,
+    "longitude": 30.3985326,
+    "hotspot": false
+  },
+  {
+    "location_id": "L4662629",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Soppavann",
+    "latitude": 70.2492845,
+    "longitude": 30.3643656,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-26 15:44",
+    "hotspot_numSpeciesAllTime": 84
+  },
+  {
+    "location_id": "L48289781",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Kvalnesvegen, Finnmark, NO (70.246, 30.372)",
+    "latitude": 70.2458989,
+    "longitude": 30.3724305,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48289749",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Kvalnesvegen, Finnmark, NO (70.239, 30.394)",
+    "latitude": 70.2391333,
+    "longitude": 30.3941856,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48289745",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Kvalnesvegen, Finnmark, NO (70.233, 30.418)",
+    "latitude": 70.2330332,
+    "longitude": 30.4178985,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48290353",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "11-14 E75, Finnmark, NO (70.214, 30.473)",
+    "latitude": 70.2143805,
+    "longitude": 30.4733488,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48291592",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "E75, Finnmark, NO (70.24, 30.514)",
+    "latitude": 70.2403949,
+    "longitude": 30.5136984,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48291414",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "11-14 E75, Finnmark, NO (70.224, 30.486)",
+    "latitude": 70.2240786,
+    "longitude": 30.4861721,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48292309",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "1 E75, Finnmark, NO (70.252, 30.663)",
+    "latitude": 70.2517535,
+    "longitude": 30.6629456,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48292814",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "E75, Finnmark, NO (70.28, 30.954)",
+    "latitude": 70.2795629,
+    "longitude": 30.9537079,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48293763",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "4 Villaveien, Finnmark, NO (70.283, 31.002)",
+    "latitude": 70.2833989,
+    "longitude": 31.0022338,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48294694",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "E75, Finnmark, NO (70.32, 31.034)",
+    "latitude": 70.3197373,
+    "longitude": 31.0336158,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48296465",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Sekundær Fylkesveg 341, Finnmark, NO (70.368, 31.018)",
+    "latitude": 70.3680225,
+    "longitude": 31.0182641,
+    "hotspot": false
+  },
+  {
+    "location_id": "L43059237",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Vardø--Østervågen",
+    "latitude": 70.3639926,
+    "longitude": 31.1145511,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-30 18:23",
+    "hotspot_numSpeciesAllTime": 43
+  },
+  {
+    "location_id": "L9768598",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Vardø--Hasselnes",
+    "latitude": 70.3814049,
+    "longitude": 31.1183684,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-02 09:44",
+    "hotspot_numSpeciesAllTime": 102
+  },
+  {
+    "location_id": "L7823753",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Barvikmyran--Hide",
+    "latitude": 70.3967,
+    "longitude": 30.9635,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-01 10:22",
+    "hotspot_numSpeciesAllTime": 70
+  },
+  {
+    "location_id": "L48325841",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "E75, Finnmark, NO (70.336, 31.023)",
+    "latitude": 70.3364977,
+    "longitude": 31.0234767,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48329744",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "10 Havnegata, Finnmark, NO (70.284, 30.997)",
+    "latitude": 70.2843787,
+    "longitude": 30.9969498,
+    "hotspot": false
+  },
+  {
+    "location_id": "L6827738",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Vardø--Hornøya",
+    "latitude": 70.3876772,
+    "longitude": 31.1566901,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-03 09:31",
+    "hotspot_numSpeciesAllTime": 158
+  },
+  {
+    "location_id": "L19747265",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Kramvik--Falkefloget",
+    "latitude": 70.2669308,
+    "longitude": 30.7875375,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-24 19:31",
+    "hotspot_numSpeciesAllTime": 56
+  },
+  {
+    "location_id": "L48348156",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Sekundær Fylkesveg 341, Finnmark, NO (70.368, 31.018)",
+    "latitude": 70.3680683,
+    "longitude": 31.0183318,
+    "hotspot": false
+  },
+  {
+    "location_id": "L5940843",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Vardø--Skagen",
+    "latitude": 70.395651,
+    "longitude": 31.072986,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-27 09:38",
+    "hotspot_numSpeciesAllTime": 100
+  },
+  {
+    "location_id": "L29776420",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Vardø--Reinøysundet",
+    "latitude": 70.384623,
+    "longitude": 31.1291485,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-25 10:21",
+    "hotspot_numSpeciesAllTime": 61
+  },
+  {
+    "location_id": "L48368782",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Vei Uten Navn, Finnmark, NO (70.389, 31.03)",
+    "latitude": 70.3889882,
+    "longitude": 31.0300205,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48369691",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "7 Sekundær Fylkesveg 341, Finnmark, NO (70.407, 30.932)",
+    "latitude": 70.4067189,
+    "longitude": 30.9318254,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48371196",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Sekundær Fylkesveg 341, Finnmark, NO (70.439, 30.869)",
+    "latitude": 70.4390708,
+    "longitude": 30.8692123,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48373718",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "1 Sekundær Fylkesveg 341, Finnmark, NO (70.425, 30.8)",
+    "latitude": 70.4250959,
+    "longitude": 30.7999558,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48375648",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Sekundær Fylkesveg 341, Finnmark, NO (70.493, 30.629)",
+    "latitude": 70.4934044,
+    "longitude": 30.628978,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48411462",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Sekundær Fylkesveg 341, Finnmark, NO (70.539, 30.634)",
+    "latitude": 70.5386264,
+    "longitude": 30.6335181,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48415273",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Sekundær Fylkesveg 341, Finnmark, NO (70.54, 30.629)",
+    "latitude": 70.5401715,
+    "longitude": 30.6289076,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48420484",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "E75, Finnmark, NO (70.266, 30.789)",
+    "latitude": 70.266241,
+    "longitude": 30.7888168,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48424820",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "E75, Finnmark, NO (70.24, 30.515)",
+    "latitude": 70.2398776,
+    "longitude": 30.5146032,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48430018",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "48 E75, Finnmark, NO (70.201, 30.373)",
+    "latitude": 70.2010334,
+    "longitude": 30.3730052,
+    "hotspot": false
+  },
+  {
+    "location_id": "L19655401",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Skallelv--Makkenes",
+    "latitude": 70.1891314,
+    "longitude": 30.3552954,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-25 14:29",
+    "hotspot_numSpeciesAllTime": 78
+  },
+  {
+    "location_id": "L33317547",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Skallelv bro",
+    "latitude": 70.185925,
+    "longitude": 30.3285749,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-27 17:22",
+    "hotspot_numSpeciesAllTime": 64
+  },
+  {
+    "location_id": "L1075891",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "Nesseby kirke og naturreservat",
+    "latitude": 70.1456038,
+    "longitude": 28.8622427,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-03 15:15",
+    "hotspot_numSpeciesAllTime": 163
+  },
+  {
+    "location_id": "L48442178",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "3960 Nuorgamintie, Utsjoki, Lappi, FI (70.068, 27.786)",
+    "latitude": 70.0683693,
+    "longitude": 27.786258,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48445397",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "1225 Nuorgamintie, Utsjoki, Lappi, FI (69.955, 27.304)",
+    "latitude": 69.9554982,
+    "longitude": 27.3044728,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48443610",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "2095 Nuorgamintie, Utsjoki, Lappi, FI (70.013, 27.409)",
+    "latitude": 70.0130124,
+    "longitude": 27.4093951,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48444518",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "2059 Nuorgamintie, Utsjoki, Lappi, FI (70.01, 27.404)",
+    "latitude": 70.0103046,
+    "longitude": 27.4044608,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48446820",
+    "subnational1": "NO-20",
+    "subnational2": "",
+    "location_name": "6464 Deanugeaidnu, Finnmark, NO (69.923, 27.11)",
+    "latitude": 69.9225038,
+    "longitude": 27.1104823,
+    "hotspot": false
+  },
+  {
+    "location_id": "L2393874",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "Utsjoki--Ailigas",
+    "latitude": 69.8961647,
+    "longitude": 27.0593262,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-01 17:09",
+    "hotspot_numSpeciesAllTime": 64
+  },
+  {
+    "location_id": "L48478830",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "2303 Tenontie Deanugeaidnu, Utsjoki, Lappi, FI (69.948, 26.563)",
+    "latitude": 69.9476693,
+    "longitude": 26.5634481,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48479235",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "2779 Tenontie Deanugeaidnu, Utsjoki, Lappi, FI (69.931, 26.461)",
+    "latitude": 69.9305633,
+    "longitude": 26.4610873,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48481943",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "4962 Tenontie Deanugeaidnu, Utsjoki, Lappi, FI (69.772, 26.214)",
+    "latitude": 69.7722889,
+    "longitude": 26.2143105,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48483394",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "4692 Tenontie Deanugeaidnu, Utsjoki, Lappi, FI (69.793, 26.245)",
+    "latitude": 69.7926749,
+    "longitude": 26.244951,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48492141",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "44 Norjantie, Utsjoki, Lappi, FI (69.399, 25.846)",
+    "latitude": 69.3994302,
+    "longitude": 25.8461567,
+    "hotspot": false
+  },
+  {
+    "location_id": "L18444943",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "Utsjoki--Suttesgaldu näköalatorni",
+    "latitude": 69.394707,
+    "longitude": 26.1198664,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-26 17:03",
+    "hotspot_numSpeciesAllTime": 52
+  },
+  {
+    "location_id": "L48502511",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "5435 Karigasniementie, Utsjoki, Lappi, FI (69.389, 26.165)",
+    "latitude": 69.389488,
+    "longitude": 26.1653891,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48502512",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "5435 Karigasniementie, Utsjoki, Lappi, FI (69.389, 26.165)",
+    "latitude": 69.389488,
+    "longitude": 26.1653891,
+    "hotspot": false
+  },
+  {
+    "location_id": "L16382087",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "Utsjoki--Kevon luonnonpuisto, South",
+    "latitude": 69.4440326,
+    "longitude": 26.1218384,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-27 05:26",
+    "hotspot_numSpeciesAllTime": 77
+  },
+  {
+    "location_id": "L48538968",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "359 Ailigasjängäntie, Utsjoki, Lappi, FI (69.425, 26.096)",
+    "latitude": 69.425032,
+    "longitude": 26.0958099,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48549685",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "42b Inarintie, Inari, Lappi, FI (68.908, 27.016)",
+    "latitude": 68.9079795,
+    "longitude": 27.0162898,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48575511",
+    "subnational1": "FI-10",
+    "subnational2": "",
+    "location_name": "Nimetön Tie, Kittilä, Lappi, FI (68.072, 25.416)",
+    "latitude": 68.0722188,
+    "longitude": 25.4163716,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48575546",
+    "subnational1": "SE-BD",
+    "subnational2": "",
+    "location_name": "403, Norrbottens län, SE (67.207, 23.397)",
+    "latitude": 67.2073411,
+    "longitude": 23.3966735,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48575569",
+    "subnational1": "SE-BD",
+    "subnational2": "",
+    "location_name": "69 Strandvägen, Norrbottens län, SE (67.218, 23.362)",
+    "latitude": 67.2176197,
+    "longitude": 23.3616813,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48575619",
+    "subnational1": "SE-BD",
+    "subnational2": "",
+    "location_name": "99, Norrbottens län, SE (67.266, 23.236)",
+    "latitude": 67.2659895,
+    "longitude": 23.2357675,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48605588",
+    "subnational1": "SE-BD",
+    "subnational2": "",
+    "location_name": "Väg Utan Namn, Norrbottens län, SE (67.436, 23.325)",
+    "latitude": 67.4360741,
+    "longitude": 23.3250059,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48608585",
+    "subnational1": "SE-BD",
+    "subnational2": "",
+    "location_name": "235 Svanstein, Norrbottens län, SE (66.659, 23.853)",
+    "latitude": 66.6585423,
+    "longitude": 23.8531342,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48617868",
+    "subnational1": "SE-BD",
+    "subnational2": "",
+    "location_name": "BD 855, Norrbottens län, SE (66.622, 23.454)",
+    "latitude": 66.622208,
+    "longitude": 23.4544403,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48617901",
+    "subnational1": "SE-BD",
+    "subnational2": "",
+    "location_name": "Väg Utan Namn, Norrbottens län, SE (66.649, 23.806)",
+    "latitude": 66.6493562,
+    "longitude": 23.8063877,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48630154",
+    "subnational1": "SE-BD",
+    "subnational2": "",
+    "location_name": "13 Strandgatan, Norrbottens län, SE (65.834, 24.144)",
+    "latitude": 65.8337936,
+    "longitude": 24.1435085,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48632674",
+    "subnational1": "SE-BD",
+    "subnational2": "",
+    "location_name": "1 Gränsbågen, Norrbottens län, SE (65.841, 24.141)",
+    "latitude": 65.8411545,
+    "longitude": 24.1414954,
+    "hotspot": false
+  },
+  {
+    "location_id": "L8447708",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "Oulu--Oritkari",
+    "latitude": 64.9891022,
+    "longitude": 25.4340449,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-28 19:15",
+    "hotspot_numSpeciesAllTime": 146
+  },
+  {
+    "location_id": "L17743825",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "Kempele--Teppola",
+    "latitude": 64.94008,
+    "longitude": 25.462676,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-29 11:40",
+    "hotspot_numSpeciesAllTime": 112
+  },
+  {
+    "location_id": "L4486599",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "Kempele--Vihiluoto",
+    "latitude": 64.9469136,
+    "longitude": 25.449542,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-29 10:21",
+    "hotspot_numSpeciesAllTime": 196
+  },
+  {
+    "location_id": "L48700861",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "10 Villenranta, Oulu, Pohjois-Pohjanmaa, FI (64.968, 25.486)",
+    "latitude": 64.9684556,
+    "longitude": 25.4860161,
+    "hotspot": false
+  },
+  {
+    "location_id": "L7407404",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "Oulu--Oulunsalo, Papinjärvi",
+    "latitude": 64.9365881,
+    "longitude": 25.3404034,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-29 12:43",
+    "hotspot_numSpeciesAllTime": 98
+  },
+  {
+    "location_id": "L48709043",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "357 Letontie, Oulu, Pohjois-Pohjanmaa, FI (64.889, 25.412)",
+    "latitude": 64.8887858,
+    "longitude": 25.4120071,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48709059",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "40 Lintulammentie, Liminka, Pohjois-Pohjanmaa, FI (64.869, 25.406)",
+    "latitude": 64.8691096,
+    "longitude": 25.4055811,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48709027",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "9 Kalatie, Liminka, Pohjois-Pohjanmaa, FI (64.861, 25.388)",
+    "latitude": 64.8613206,
+    "longitude": 25.387879,
+    "hotspot": false
+  },
+  {
+    "location_id": "L4486595",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "Temmesjokisuu Lintutorni, Liminka",
+    "latitude": 64.86124,
+    "longitude": 25.35154,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-29 13:54",
+    "hotspot_numSpeciesAllTime": 149
+  },
+  {
+    "location_id": "L48726700",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "29 Selkämaantie, Nenänperä, Pohjois-Pohjanmaa, FI (64.851, 25.415)",
+    "latitude": 64.8513553,
+    "longitude": 25.4145876,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48714072",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "Liminka, Pohjois-Pohjanmaa, FI (64.83, 25.456)",
+    "latitude": 64.8295728,
+    "longitude": 25.4559079,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48714114",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "9 Tupoksentie, Liminka, Pohjois-Pohjanmaa, FI (64.809, 25.415)",
+    "latitude": 64.8090828,
+    "longitude": 25.4150968,
+    "hotspot": false
+  },
+  {
+    "location_id": "L4486593",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "Liminka--Virkkula N lintutorni",
+    "latitude": 64.82921,
+    "longitude": 25.3105,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-30 16:20",
+    "hotspot_numSpeciesAllTime": 204
+  },
+  {
+    "location_id": "L6028935",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "Raahe--Olkijokisuu",
+    "latitude": 64.7362453,
+    "longitude": 24.5710561,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-29 18:41",
+    "hotspot_numSpeciesAllTime": 198
+  },
+  {
+    "location_id": "L5997772",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "Raahe--Pattijokisuu",
+    "latitude": 64.7165633,
+    "longitude": 24.5318836,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-03 04:42",
+    "hotspot_numSpeciesAllTime": 235
+  },
+  {
+    "location_id": "L48750752",
+    "subnational1": "FI-14",
+    "subnational2": "",
+    "location_name": "Hanhikiventie, Pyhäjoki, Pohjois-Pohjanmaa, FI (64.523, 24.281)",
+    "latitude": 64.5225506,
+    "longitude": 24.2811856,
+    "hotspot": false
+  },
+  {
+    "location_id": "L14656345",
+    "subnational1": "FI-07",
+    "subnational2": "",
+    "location_name": "Central Ostrobothnia",
+    "latitude": 63.6283648,
+    "longitude": 24.0555834,
+    "hotspot": false
+  },
+  {
+    "location_id": "L4486314",
+    "subnational1": "FI-12",
+    "subnational2": "",
+    "location_name": "Vöyri--Oravainen Ånas",
+    "latitude": 63.33,
+    "longitude": 22.39085,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-06-30 13:38",
+    "hotspot_numSpeciesAllTime": 101
+  },
+  {
+    "location_id": "L48933203",
+    "subnational1": "FI-03",
+    "subnational2": "",
+    "location_name": "349 Sarvijoentie, Kurikka, Etelä-Pohjanmaa, FI (62.839, 21.755)",
+    "latitude": 62.8296193,
+    "longitude": 21.7872139,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48809677",
+    "subnational1": "FI-12",
+    "subnational2": "",
+    "location_name": "35 Närpesvägen, Närpes, Österbotten, FI (62.48, 21.337)",
+    "latitude": 62.4801105,
+    "longitude": 21.3374619,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48809576",
+    "subnational1": "FI-12",
+    "subnational2": "",
+    "location_name": "2 Tegelbruksvägen, Närpes, Österbotten, FI (62.476, 21.396)",
+    "latitude": 62.4758754,
+    "longitude": 21.3955275,
+    "hotspot": false
+  },
+  {
+    "location_id": "L4486222",
+    "subnational1": "FI-12",
+    "subnational2": "",
+    "location_name": "Kristiinankaupunki--Siipyy lintutorni",
+    "latitude": 62.0138928,
+    "longitude": 21.2930121,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-01 04:34",
+    "hotspot_numSpeciesAllTime": 157
+  },
+  {
+    "location_id": "L4195267",
+    "subnational1": "FI-17",
+    "subnational2": "",
+    "location_name": "Merikarvia--Kasalan Kalasatama lintutorni",
+    "latitude": 61.943914,
+    "longitude": 21.3455021,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-02 10:23",
+    "hotspot_numSpeciesAllTime": 181
+  },
+  {
+    "location_id": "L48847733",
+    "subnational1": "FI-17",
+    "subnational2": "",
+    "location_name": "15 Takaranta, Pori, Satakunta, FI (61.609, 21.442)",
+    "latitude": 61.6086076,
+    "longitude": 21.4420409,
+    "hotspot": false
+  },
+  {
+    "location_id": "L1161640",
+    "subnational1": "FI-17",
+    "subnational2": "",
+    "location_name": "Pori--Kirrinsanta Technipin allas",
+    "latitude": 61.5997905,
+    "longitude": 21.5149326,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-01 09:05",
+    "hotspot_numSpeciesAllTime": 145
+  },
+  {
+    "location_id": "L1161677",
+    "subnational1": "FI-17",
+    "subnational2": "",
+    "location_name": "Pori--Yyterin Lietteet",
+    "latitude": 61.5291672,
+    "longitude": 21.5594788,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-01 09:41",
+    "hotspot_numSpeciesAllTime": 210
+  },
+  {
+    "location_id": "L48878642",
+    "subnational1": "FI-17",
+    "subnational2": "",
+    "location_name": "6 Linjatie, Pori, Satakunta, FI (61.451, 21.816)",
+    "latitude": 61.4505127,
+    "longitude": 21.8160969,
+    "hotspot": false
+  },
+  {
+    "location_id": "L48878644",
+    "subnational1": "FI-17",
+    "subnational2": "",
+    "location_name": "6 Linjatie, Pori, Satakunta, FI (61.451, 21.816)",
+    "latitude": 61.4505127,
+    "longitude": 21.8160969,
+    "hotspot": false
+  },
+  {
+    "location_id": "L4486079",
+    "subnational1": "FI-17",
+    "subnational2": "",
+    "location_name": "Pori--Enäjärvi lintulava",
+    "latitude": 61.5454548,
+    "longitude": 21.6222707,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-02 12:34",
+    "hotspot_numSpeciesAllTime": 117
+  },
+  {
+    "location_id": "L48918380",
+    "subnational1": "FI-17",
+    "subnational2": "",
+    "location_name": "218 Länsitie, Pori, Satakunta, FI (61.514, 21.769)",
+    "latitude": 61.5139575,
+    "longitude": 21.7694578,
+    "hotspot": false
+  },
+  {
+    "location_id": "L4486080",
+    "subnational1": "FI-17",
+    "subnational2": "",
+    "location_name": "Pori--Enäjärvi",
+    "latitude": 61.5465302,
+    "longitude": 21.6017424,
+    "hotspot": true,
+    "hotspot_latestObsDt": "2025-07-02 14:50",
+    "hotspot_numSpeciesAllTime": 101
+  },
+  {
+    "location_id": "L1575525",
+    "subnational1": "FI-11",
+    "subnational2": "",
+    "location_name": "Pirkanmaa",
+    "latitude": 62.0541962,
+    "longitude": 23.6940051,
+    "hotspot": false
+  },
+  {
+    "location_id": "L10640915",
+    "subnational1": "FI-19",
+    "subnational2": "",
+    "location_name": "Southwest Finland",
+    "latitude": 60.546011,
+    "longitude": 22.5574899,
+    "hotspot": false
+  },
+  {
+    "location_id": "L5967222",
+    "subnational1": "FI-06",
+    "subnational2": "",
+    "location_name": "Tavastia Proper",
+    "latitude": 60.9205726,
+    "longitude": 24.353464,
+    "hotspot": false
+  }
+]
