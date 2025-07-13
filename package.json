@@ -1,0 +1,26 @@
+{
+  "name": "the-great-north",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.7",
+    "bootstrap-icons": "^1.13.1",
+    "chart.js": "^4.5.0",
+    "ebird-js": "^0.0.10",
+    "mapbox-gl": "^3.13.0",
+    "papaparse": "^5.5.3",
+    "vue": "^3.5.17",
+    "vue-chartjs": "^5.3.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.0",
+    "sass": "^1.89.2",
+    "vite": "^7.0.0"
+  }
+}

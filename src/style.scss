@@ -1,0 +1,5 @@
+// Override variables *before* importing Bootstrap
+$primary: #40718f; // Your new primary color
+
+// Import Bootstrap
+@import "bootstrap/scss/bootstrap";
