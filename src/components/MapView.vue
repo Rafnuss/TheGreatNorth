@@ -35,7 +35,7 @@ async function createMarkers(locations) {
 
   for (const loc of locations) {
     const el = document.createElement("img");
-    el.src = loc.hotspot ? "/map-marker-hotspot.png" : "/map-marker-personal.png";
+    el.src = loc.hotspot ? "map-marker-hotspot.png" : "map-marker-personal.png";
 
     const popupHTML = await renderPopup(loc);
     const popup = new mapboxgl.Popup({

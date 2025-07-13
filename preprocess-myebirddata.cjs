@@ -221,14 +221,14 @@ locations = locations.map((l) => {
 });
 
 // Write output to public folder
-fs.writeFileSync("./public/taxonomy.json", JSON.stringify(taxonomyEnriched, null, 2));
+fs.writeFileSync("./src/assets/taxonomy.json", JSON.stringify(taxonomyEnriched, null, 2));
 console.log(`✅ Wrote taxonomy.json with ${taxonomyEnriched.length} records.`);
 
-fs.writeFileSync("./public/submissions.json", JSON.stringify(submissions, null, 2));
+fs.writeFileSync("./src/assets/submissions.json", JSON.stringify(submissions, null, 2));
 console.log(`✅ Wrote submissions.json with ${submissions.length} records.`);
 
-fs.writeFileSync("./public/locations.json", JSON.stringify(locations, null, 2));
+fs.writeFileSync("./src/assets/locations.json", JSON.stringify(locations, null, 2));
 console.log(`✅ Wrote locations.json with ${locations.length} records.`);
 
-fs.writeFileSync("./public/observations.json", JSON.stringify(observations, null, 2));
+fs.writeFileSync("./src/assets/observations.json", JSON.stringify(observations, null, 2));
 console.log(`✅ Wrote observations.json with ${observations.length} records.`);

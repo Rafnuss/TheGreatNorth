@@ -41,6 +41,11 @@ const taxonomy = ref([]);
 const observations = ref([]);
 const submissions = ref([]);
 
+import loc from "./assets/locations.json";
+import tax from "./assets/taxonomy.json";
+import obs from "./assets/observations.json";
+import sub from "./assets/submissions.json";
+
 const mapView = ref();
 
 function filterMarkersBySpecies(taxOrder) {
@@ -48,17 +53,6 @@ function filterMarkersBySpecies(taxOrder) {
 }
 
 onMounted(async () => {
-  const [locRes, taxRes, obsRes, subRes] = await Promise.all([
-    fetch("/locations.json"),
-    fetch("/taxonomy.json"),
-    fetch("/observations.json"),
-    fetch("/submissions.json"),
-  ]);
-  let loc = await locRes.json();
-  let tax = await taxRes.json();
-  let obs = await obsRes.json();
-  let sub = await subRes.json();
-
   // Add information to sumbissions from observations
   sub.map((s) => {
     const filtered = obs.filter((o) => o.submission_id === s.submission_id);
@@ -120,8 +114,6 @@ onMounted(async () => {
       .filter((s) => s && s.trim() !== "")
       .flatMap((s) => s.split(" "));
   });
-
-  console.log([...new Set(taxReport.flatMap((t) => t.category))]);
 
   locations.value = loc;
   taxonomy.value = taxReport;
