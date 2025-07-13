@@ -73,5 +73,5 @@ const geojson = {
 };
 
 // --- Write to file ---
-fs.writeFileSync("src/assets/routes.geojson", JSON.stringify(geojson, null, 2));
+fs.writeFileSync("src/assets/routes.json", JSON.stringify(geojson, null, 2));
 console.log("✅ LineString GeoJSON saved to routes.geojson");

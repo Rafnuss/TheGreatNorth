@@ -8,6 +8,8 @@ import { renderToString } from "@vue/server-renderer";
 import mapboxgl from "mapbox-gl";
 import Popup from "./Popup.vue";
 
+import routes from "../assets/routes.json";
+
 async function renderPopup(loc) {
   const app = createSSRApp({
     render() {
@@ -127,40 +129,36 @@ onMounted(() => {
   });
 
   map.value.on("load", () => {
-    fetch("routes.geojson")
-      .then((res) => res.json())
-      .then((data) => {
-        map.value.addSource("route", {
-          type: "geojson",
-          data: data,
-        });
+    map.value.addSource("route", {
+      type: "geojson",
+      data: routes,
+    });
 
-        // White line
-        map.value.addLayer({
-          id: "route-line",
-          type: "line",
-          source: "route",
-          layout: {
-            "line-join": "round",
-            "line-cap": "round",
-          },
-          paint: {
-            "line-color": "#ffffff",
-            "line-width": 2,
-          },
-        });
+    // White line
+    map.value.addLayer({
+      id: "route-line",
+      type: "line",
+      source: "route",
+      layout: {
+        "line-join": "round",
+        "line-cap": "round",
+      },
+      paint: {
+        "line-color": "#ffffff",
+        "line-width": 2,
+      },
+    });
 
-        // Dots at each point
-        map.value.addLayer({
-          id: "route-points",
-          type: "circle",
-          source: "route",
-          paint: {
-            "circle-radius": 3,
-            "circle-color": "#ffffff",
-          },
-        });
-      });
+    // Dots at each point
+    map.value.addLayer({
+      id: "route-points",
+      type: "circle",
+      source: "route",
+      paint: {
+        "circle-radius": 3,
+        "circle-color": "#ffffff",
+      },
+    });
 
     createMarkers(props.locations);
     addLegend();
