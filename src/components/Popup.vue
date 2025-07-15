@@ -7,7 +7,6 @@
             :href="`https://ebird.org/hotspot/${location_id}`"
             target="_blank"
             rel="noopener noreferrer"
-            class="text-decoration-none"
           >
             {{ location_name }}
           </a>

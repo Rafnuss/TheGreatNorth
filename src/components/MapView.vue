@@ -44,6 +44,7 @@ async function createMarkers(locations) {
       offset: 10,
       className: "custom-popup",
       maxWidth: "350px",
+      focusAfterOpen: false,
     }).setHTML(popupHTML);
 
     const marker = new mapboxgl.Marker({ element: el })
@@ -79,10 +80,11 @@ function toggleCasualObservations(show) {
 }
 
 function filterMarkers(taxOrder) {
+  const showAll = !taxOrder || taxOrder.length === 0;
   markers.forEach((marker) => {
-    const showAll = !taxOrder || taxOrder.length === 0;
-    const hasSpecies = showAll ? true : marker.taxonomic_order.includes(taxOrder);
-    marker.getElement().style.display = hasSpecies ? "block" : "none";
+    const matchesTax = showAll || marker.taxonomic_order.includes(taxOrder);
+    const showMarker = matchesTax && (!marker.only_incidental || showCasual);
+    marker.getElement().style.display = showMarker ? "block" : "none";
   });
 }
 defineExpose({ filterMarkers });
