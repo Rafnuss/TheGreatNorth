@@ -55,12 +55,14 @@
     </div>
 
     <div class="container my-4">
-      <div class="row row-cols-2 row-cols-md-4 g-3 text-center">
+      <div class="row row-cols-2 row-cols-md-5 g-2 text-center">
         <div v-for="s in stat" :key="s.text" class="col h-100">
-          <div class="text-bg-primary rounded h-100 mx-1 py-1">
-            <h5 class="mb-1">{{ s.nb.toLocaleString() }}</h5>
-            <p class="small mb-1">{{ s.text }}</p>
-          </div>
+          <a :href="s.link" target="_blank">
+            <div class="text-bg-primary rounded h-100 mx-1 py-1">
+              <h5 class="mb-1">{{ s.nb.toLocaleString() }}</h5>
+              <p class="small mb-1">{{ s.text }}</p>
+            </div>
+          </a>
         </div>
       </div>
     </div>
@@ -296,7 +298,27 @@ const stat = [
   { nb: 683, text: "Checklists" },
   { nb: 142061, text: "Individuals" },
   { nb: 291, text: "Hours" },
-  { nb: 416, text: "km" },
+  { nb: 416, text: "Km" },
+  {
+    nb: 838,
+    text: "Photos",
+    link: "https://media.ebird.org/catalog?userId=USER497615&beginMonth=5&endMonth=7&beginYear=2025&endYear=2025&birdOnly=true&sort=rating_rank_desc&unconfirmed=incl&mediaType=photo",
+  },
+  {
+    nb: 214,
+    text: "Audios",
+    link: "https://media.ebird.org/catalog?userId=USER497615&beginMonth=5&endMonth=7&beginYear=2025&endYear=2025&birdOnly=true&sort=rating_rank_desc&unconfirmed=incl&mediaType=audio",
+  },
+  {
+    nb: 33,
+    text: "Videos",
+    link: "https://media.ebird.org/catalog?userId=USER497615&beginMonth=5&endMonth=7&beginYear=2025&endYear=2025&birdOnly=true&sort=rating_rank_desc&unconfirmed=incl&mediaType=video",
+  },
+  {
+    nb: 150,
+    text: "Habitat",
+    link: "https://media.ebird.org/catalog?userId=USER497615&beginMonth=5&endMonth=7&beginYear=2025&endYear=2025&sort=rating_rank_desc&unconfirmed=incl&mediaType=photo&tag=environmental",
+  },
 ];
 
 const open = ref([false, false, false, false]);
