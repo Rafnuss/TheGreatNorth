@@ -319,6 +319,11 @@ const stat = [
     text: "Habitat",
     link: "https://media.ebird.org/catalog?userId=USER497615&beginMonth=5&endMonth=7&beginYear=2025&endYear=2025&sort=rating_rank_desc&unconfirmed=incl&mediaType=photo&tag=environmental",
   },
+  {
+    nb: 145,
+    text: "Experiences",
+    link: "https://media.ebird.org/catalog?userId=USER497615&beginMonth=5&endMonth=7&beginYear=2025&endYear=2025&sort=rating_rank_desc&unconfirmed=incl&mediaType=photo&tag=experience",
+  },
 ];
 
 const open = ref([false, false, false, false]);
