@@ -5,73 +5,83 @@
     <div class="mb-4">
       <p>
         Between 16th May and 4th of July 2025, we embarked on a family roadtrip to the
-        <i>Great North</i> of Europe in a camping-car! More narrative on each country is available
-        for each trip report:
+        <i>Great North</i> of Europe in a camping-car!
       </p>
-      <div class="d-flex flex-wrap gap-3">
+      <div class="d-flex flex-wrap gap-1">
         <a
           href="https://ebird.org/tripreport/391401"
           target="_blank"
-          class="btn btn-outline-primary"
+          class="btn btn-outline-primary btn-sm"
           >🇩🇪 DE</a
         >
         <a
           href="https://ebird.org/tripreport/377229"
           target="_blank"
-          class="btn btn-outline-primary"
+          class="btn btn-outline-primary btn-sm"
           >🇵🇱 PL</a
         >
         <a
           href="https://ebird.org/tripreport/378180"
           target="_blank"
-          class="btn btn-outline-primary"
+          class="btn btn-outline-primary btn-sm"
           >🇱🇹 LI</a
         >
         <a
           href="https://ebird.org/tripreport/378388"
           target="_blank"
-          class="btn btn-outline-primary"
+          class="btn btn-outline-primary btn-sm"
           >🇱🇻 LV</a
         >
         <a
           href="https://ebird.org/tripreport/380243"
           target="_blank"
-          class="btn btn-outline-primary"
+          class="btn btn-outline-primary btn-sm"
           >🇪🇪 EE</a
         >
         <a
           href="https://ebird.org/tripreport/382025"
           target="_blank"
-          class="btn btn-outline-primary"
+          class="btn btn-outline-primary btn-sm"
           >🇫🇮 FI</a
         >
         <a
           href="https://ebird.org/tripreport/386664"
           target="_blank"
-          class="btn btn-outline-primary"
+          class="btn btn-outline-primary btn-sm"
           >🇳🇴 NO</a
         >
       </div>
+      <small class="text-muted">Click on a flag to see the trip report for that country.</small>
     </div>
 
-    <div class="container my-4">
-      <div class="row row-cols-2 row-cols-md-5 g-2 text-center">
+    <div class="container mb-4 px-0">
+      <div class="row row-cols-2 row-cols-md-5 g-1 gy-2 text-center">
         <div v-for="s in stat" :key="s.text" class="col h-100">
-          <a :href="s.link" target="_blank">
+          <template v-if="s.link">
+            <a :href="s.link" target="_blank" class="stat-link">
+              <div class="text-bg-primary rounded h-100 mx-1 py-1">
+                <h5 class="mb-1">{{ s.nb.toLocaleString() }}</h5>
+                <p class="small mb-1">{{ s.text }}</p>
+              </div>
+            </a>
+          </template>
+          <template v-else>
             <div class="text-bg-primary rounded h-100 mx-1 py-1">
               <h5 class="mb-1">{{ s.nb.toLocaleString() }}</h5>
               <p class="small mb-1">{{ s.text }}</p>
             </div>
-          </a>
+          </template>
         </div>
       </div>
     </div>
 
     <!-- Section 1 -->
-    <h2>
+    <h2 class="section-heading">
       Lifer Summary
-      <button class="btn btn-link" @click="toggle(1)">
-        <i :class="open[1] ? 'bi-chevron-up' : 'bi-chevron-down'"></i>
+      <button class="btn btn-link chevron-btn" @click="toggle(1)">
+        <i
+          :class="[open[1] ? 'bi-chevron-up' : 'bi-chevron-down', 'chevron-medium', 'chevron-bold']"
+        ></i>
       </button>
     </h2>
     <div class="container mb-4" v-show="open[1]">
@@ -152,10 +162,12 @@
     </div>
 
     <!-- Section 2 -->
-    <h2>
+    <h2 class="section-heading">
       Palearctic Lifers
-      <button class="btn btn-link" @click="toggle(2)">
-        <i :class="open[2] ? 'bi-chevron-up' : 'bi-chevron-down'"></i>
+      <button class="btn btn-link chevron-btn" @click="toggle(2)">
+        <i
+          :class="[open[2] ? 'bi-chevron-up' : 'bi-chevron-down', 'chevron-medium', 'chevron-bold']"
+        ></i>
       </button>
     </h2>
     <div class="container mb-4" v-show="open[2]">
@@ -200,10 +212,12 @@
     </div>
 
     <!-- Section 3 -->
-    <h2>
+    <h2 class="section-heading">
       Photo-lifer Cleanup
-      <button class="btn btn-link" @click="toggle(3)">
-        <i :class="open[3] ? 'bi-chevron-up' : 'bi-chevron-down'"></i>
+      <button class="btn btn-link chevron-btn" @click="toggle(3)">
+        <i
+          :class="[open[3] ? 'bi-chevron-up' : 'bi-chevron-down', 'chevron-medium', 'chevron-bold']"
+        ></i>
       </button>
     </h2>
     <div class="container mb-4" v-show="open[3]">
@@ -273,10 +287,12 @@
       </ul>
     </div>
 
-    <h2>
+    <h2 class="section-heading">
       Figures
-      <button class="btn btn-link" @click="toggle(4)">
-        <i :class="open[4] ? 'bi-chevron-up' : 'bi-chevron-down'"></i>
+      <button class="btn btn-link chevron-btn" @click="toggle(4)">
+        <i
+          :class="[open[4] ? 'bi-chevron-up' : 'bi-chevron-down', 'chevron-medium', 'chevron-bold']"
+        ></i>
       </button>
     </h2>
     <div class="container mb-4" v-show="open[4]">
@@ -331,3 +347,40 @@ function toggle(i) {
   open.value[i] = !open.value[i];
 }
 </script>
+
+<style scoped>
+.section-heading {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.chevron-btn {
+  padding: 0 0.2rem;
+  margin-left: 0.2rem;
+  vertical-align: middle;
+}
+.chevron-medium {
+  font-size: 1.35rem;
+  color: #0d6efd;
+  font-weight: bold;
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.15));
+  vertical-align: middle;
+}
+.chevron-bold {
+  font-weight: 900;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.18);
+}
+.text-muted {
+  color: #ababab !important;
+}
+.stat-link {
+  transition: filter 0.2s, box-shadow 0.2s, transform 0.2s;
+  display: block;
+  border-radius: 0.5rem;
+}
+.stat-link:hover .text-bg-primary {
+  filter: brightness(1.15) drop-shadow(0 2px 8px rgba(13, 110, 253, 0.18));
+  box-shadow: 0 2px 12px 0 rgba(13, 110, 253, 0.18);
+  transform: translateY(-2px) scale(1.03);
+  cursor: pointer;
+}
+</style>

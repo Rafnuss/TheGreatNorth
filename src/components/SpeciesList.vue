@@ -1,7 +1,14 @@
 <template>
-  <h2>Species List</h2>
+  <h2 class="section-heading">
+    Species List
+    <button class="btn btn-link chevron-btn" @click="toggleCollapse">
+      <i
+        :class="[collapsed ? 'bi-chevron-up' : 'bi-chevron-down', 'chevron-medium', 'chevron-bold']"
+      ></i>
+    </button>
+  </h2>
   <!-- Checkboxes -->
-  <div class="px-3 py-2">
+  <div class="px-3 py-2" v-show="collapsed">
     <!-- Search bar -->
     <div class="mb-2">
       <input
@@ -24,6 +31,7 @@
     </div>
   </div>
   <table
+    v-show="collapsed"
     class="table table-sm table-borderless align-middle bg-transparent text-nowrap table-hover"
     @mouseleave="emit('update-visible-species', [])"
   >
@@ -96,6 +104,11 @@ const selectedCategories = ref(["species", "hybrid"]); // all selected by defaul
 
 const searchText = ref("");
 
+const collapsed = ref(false);
+function toggleCollapse() {
+  collapsed.value = !collapsed.value;
+}
+
 const filteredTaxonomy = computed(() =>
   props.taxonomy.filter((t) => {
     const matchesCategory = selectedCategories.value.includes(t.category);
@@ -134,15 +147,33 @@ const sortedTaxonomy = computed(() => {
 </script>
 
 <style scoped>
+.section-heading {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.chevron-btn {
+  padding: 0 0.2rem;
+  margin-left: 0.2rem;
+  vertical-align: middle;
+}
+.chevron-medium {
+  font-size: 1.35rem;
+  color: #0d6efd;
+  font-weight: bold;
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.15));
+  vertical-align: middle;
+}
+.chevron-bold {
+  font-weight: 900;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.18);
+}
 .card {
   border-radius: 12px;
 }
-
 .card-header {
   font-size: 1.1em;
   border-bottom: 1px solid #ddd;
 }
-
 .list-group-item {
   padding: 0.75rem 1rem;
 }

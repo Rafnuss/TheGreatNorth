@@ -14,8 +14,8 @@
         background: linear-gradient(
           to right,
           rgba(0, 0, 0, 0.85) 0%,
-          rgba(0, 0, 0, 0.85) 60%,
-          rgba(0, 0, 0, 0.5) 80%,
+          rgba(0, 0, 0, 0.85) 70%,
+          rgba(0, 0, 0, 0.5) 90%,
           rgba(0, 0, 0, 0) 100%
         );
       "
